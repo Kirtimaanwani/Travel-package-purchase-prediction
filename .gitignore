@@ -134,3 +134,7 @@ dmypy.json
 # ignore credentials files
 credential/
 ./credential
+
+# ignore artifacts files
+artifact/
+./artifact
