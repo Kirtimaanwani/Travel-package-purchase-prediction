@@ -1,6 +1,6 @@
 
 
-
+TARGET_FEATURE :str = "ProdTaken"
 FILE_NAME: str = "travel.csv"
 ARTIFACT_DIR: str = "artifact"
 PIPELINE_NAME: str = "travel"
