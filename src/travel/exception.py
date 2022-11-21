@@ -1,6 +1,6 @@
 import sys, os
 
-def error_message_detail(error, error_detail: sys):
+def error_message_detail(error, error_detail):
     _, _, exc_tb = error_detail.exc_info()
 
     file_name = exc_tb.tb_frame.f_code.co_filename
@@ -13,7 +13,7 @@ def error_message_detail(error, error_detail: sys):
 
 
 class TravelException(Exception):
-    def __init__(self, error_message, error_detail:sys):
+    def __init__(self, error_message, error_detail):
         """
         :param error_message: error message in string format
         """
