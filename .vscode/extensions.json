@@ -4,6 +4,8 @@
     "ms-toolsai.jupyter",
     "ms-toolsai.jupyter-keymap",
     "ms-toolsai.jupyter-renderers",
-    "formulahendry.code-runner"
+    "formulahendry.code-runner",
+    "mhutchie.git-graph",
+    "LaurentTreguier.vscode-simple-icons"
   ]
 }
