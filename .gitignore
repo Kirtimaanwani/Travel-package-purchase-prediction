@@ -138,3 +138,7 @@ credential/
 # ignore artifacts files
 artifact/
 ./artifact
+
+
+# ignoring data csv
+/tour_package.csv
