@@ -7,5 +7,3 @@ travel packages are of high importance for tourism organizations.
 
 
 The goal is to predict whether the customer will purchase the travel package or not.
-
-
