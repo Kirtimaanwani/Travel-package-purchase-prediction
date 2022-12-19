@@ -1,0 +1,735 @@
+,CustomerID,Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisiting,NumberOfFollowups,ProductPitched,PreferredPropertyStar,MaritalStatus,NumberOfTrips,Passport,PitchSatisfactionScore,OwnCar,NumberOfChildrenVisiting,Designation,MonthlyIncome,ProdTaken
+4595,204595,39.0,Self Enquiry,1,7.0,Large Business,Female,4,4.0,Standard,5.0,Married,3.0,0,4,1,2.0,Senior Manager,32260.0,0
+343,200343,29.0,Self Enquiry,3,16.0,Small Business,Female,2,4.0,Deluxe,4.0,Married,2.0,1,5,0,1.0,Manager,23268.0,0
+3549,203549,34.0,Self Enquiry,3,15.0,Salaried,Male,3,4.0,Deluxe,5.0,Married,4.0,0,5,1,1.0,Manager,25070.0,0
+1317,201317,27.0,Company Invited,1,11.0,Salaried,Female,2,3.0,Basic,3.0,Single,1.0,1,1,1,1.0,Executive,17379.0,0
+3778,203778,28.0,Company Invited,1,22.0,Salaried,Female,4,5.0,Basic,5.0,Married,2.0,0,4,1,1.0,Executive,23452.0,0
+3751,203751,29.0,Self Enquiry,1,7.0,Small Business,Female,4,4.0,Basic,5.0,Married,3.0,0,1,1,1.0,Executive,22269.0,0
+2069,202069,36.0,Self Enquiry,2,19.0,Salaried,Male,2,3.0,Basic,4.0,Married,5.0,0,3,1,1.0,Executive,17143.0,0
+2850,202850,53.0,Self Enquiry,1,10.0,Small Business,Male,3,5.0,Standard,3.0,Divorced,4.0,1,2,0,1.0,Senior Manager,26647.0,0
+647,200647,35.0,Self Enquiry,1,31.0,Large Business,Male,3,4.0,Standard,4.0,Divorced,4.0,0,3,1,1.0,Senior Manager,25903.0,0
+1064,201064,30.0,Self Enquiry,2,6.0,Salaried,Male,2,3.0,Basic,3.0,Married,1.0,0,1,0,1.0,Executive,17064.0,0
+3444,203444,53.0,Self Enquiry,1,15.0,Salaried,Female,3,4.0,Basic,5.0,Divorced,2.0,0,1,1,2.0,Executive,21628.0,0
+1299,201299,40.0,Self Enquiry,1,6.0,Salaried,Female,2,3.0,Deluxe,3.0,Married,5.0,0,3,0,1.0,Manager,21513.0,0
+1579,201579,22.0,Self Enquiry,1,21.0,Small Business,Female,2,3.0,Basic,3.0,Single,2.0,0,1,1,1.0,Executive,17871.0,0
+362,200362,21.0,Company Invited,3,15.0,Small Business,Male,2,3.0,Basic,3.0,Single,2.0,0,4,0,0.0,Executive,17610.0,0
+3034,203034,34.0,Self Enquiry,1,14.0,Small Business,Male,3,4.0,Standard,3.0,Divorced,2.0,0,4,0,1.0,Senior Manager,30369.0,0
+2474,202474,34.0,Self Enquiry,1,9.0,Small Business,Male,4,4.0,Basic,3.0,Single,6.0,0,3,1,3.0,Executive,21174.0,0
+2782,202782,31.0,Self Enquiry,3,12.0,Small Business,Female,2,5.0,Deluxe,3.0,Married,3.0,0,2,0,1.0,Manager,24796.0,0
+195,200195,,Self Enquiry,1,27.0,Salaried,Male,3,2.0,Basic,5.0,Divorced,2.0,1,3,0,2.0,Executive,18564.0,0
+4253,204253,28.0,Self Enquiry,3,15.0,Small Business,Female,3,4.0,Deluxe,4.0,Married,3.0,0,1,0,2.0,Manager,24892.0,0
+849,200849,43.0,Self Enquiry,3,15.0,Small Business,Female,2,5.0,Deluxe,3.0,Single,1.0,0,2,1,1.0,Manager,20346.0,1
+3784,203784,37.0,Self Enquiry,3,17.0,Large Business,Female,4,5.0,Deluxe,3.0,Married,3.0,1,1,1,3.0,Manager,24351.0,0
+44,200044,,Company Invited,1,6.0,Small Business,Female,2,3.0,Deluxe,3.0,Single,2.0,0,3,1,0.0,Manager,,0
+1328,201328,,Self Enquiry,3,29.0,Small Business,Female,2,4.0,Deluxe,3.0,Married,2.0,0,1,1,1.0,Manager,18540.0,0
+4612,204612,36.0,Self Enquiry,3,25.0,Small Business,Female,3,4.0,Deluxe,3.0,Married,3.0,0,4,1,2.0,Manager,23279.0,0
+3854,203854,41.0,Self Enquiry,3,9.0,Small Business,Female,4,4.0,Deluxe,4.0,Married,5.0,0,3,1,2.0,Manager,24355.0,0
+1813,201813,29.0,Self Enquiry,3,16.0,Small Business,Female,2,4.0,Deluxe,4.0,Married,2.0,1,5,1,0.0,Manager,23268.0,0
+4577,204577,22.0,Self Enquiry,1,25.0,Salaried,Female,4,4.0,Basic,3.0,Unmarried,3.0,0,3,1,3.0,Executive,21371.0,1
+387,200387,40.0,Self Enquiry,3,8.0,Small Business,Female,2,3.0,Deluxe,4.0,Married,1.0,0,2,0,1.0,Manager,20715.0,0
+4278,204278,38.0,Self Enquiry,1,17.0,Small Business,Female,4,4.0,Basic,5.0,Married,8.0,0,1,1,3.0,Executive,22130.0,0
+4125,204125,31.0,Company Invited,1,7.0,Salaried,Male,3,5.0,Standard,3.0,Unmarried,3.0,0,5,1,2.0,Senior Manager,27152.0,0
+1603,201603,41.0,Self Enquiry,3,15.0,Salaried,Male,3,3.0,Standard,3.0,Married,4.0,1,1,0,1.0,Senior Manager,23189.0,0
+3658,203658,45.0,Self Enquiry,1,9.0,Salaried,Female,4,2.0,Standard,3.0,Married,3.0,1,4,1,1.0,Senior Manager,26557.0,0
+1390,201390,28.0,Self Enquiry,1,23.0,Large Business,Male,2,4.0,Basic,3.0,Married,6.0,0,3,0,1.0,Executive,17367.0,1
+4543,204543,29.0,Self Enquiry,2,15.0,Small Business,Male,4,5.0,Basic,3.0,Married,3.0,0,1,1,1.0,Executive,23614.0,0
+2131,202131,43.0,Self Enquiry,1,,Salaried,Female,2,3.0,Deluxe,4.0,Married,5.0,0,3,1,0.0,Manager,19765.0,0
+4382,204382,53.0,Self Enquiry,1,13.0,Large Business,Male,4,4.0,Deluxe,5.0,Married,5.0,1,4,1,2.0,Manager,24255.0,0
+81,200081,35.0,Self Enquiry,1,6.0,Small Business,Male,1,4.0,Basic,3.0,Single,2.0,0,4,1,0.0,Executive,17859.0,0
+1709,201709,,Self Enquiry,1,6.0,Salaried,Male,3,4.0,Basic,3.0,Single,1.0,1,5,0,2.0,Executive,,1
+1407,201407,24.0,Self Enquiry,1,,Salaried,Male,2,4.0,Deluxe,3.0,Single,2.0,0,3,1,1.0,Manager,19617.0,0
+3058,203058,27.0,Company Invited,1,12.0,Small Business,Female,3,5.0,Basic,3.0,Divorced,3.0,1,2,0,2.0,Executive,21044.0,1
+593,200593,36.0,Self Enquiry,1,6.0,Salaried,Female,2,3.0,Deluxe,4.0,Divorced,1.0,0,5,0,0.0,Manager,20228.0,0
+582,200582,40.0,Company Invited,1,,Small Business,Female,2,1.0,Deluxe,4.0,Divorced,2.0,0,3,0,1.0,Manager,,0
+960,200960,,Company Invited,3,6.0,Small Business,Female,3,3.0,Deluxe,5.0,Married,1.0,0,3,0,1.0,Manager,,0
+2219,202219,52.0,Self Enquiry,3,8.0,Small Business,Female,2,5.0,King,3.0,Married,2.0,0,3,1,,VP,34845.0,1
+1604,201604,26.0,Self Enquiry,2,31.0,Salaried,Female,3,3.0,Basic,3.0,Married,2.0,0,4,1,1.0,Executive,17942.0,0
+4181,204181,26.0,Company Invited,1,12.0,Salaried,Male,3,2.0,Deluxe,5.0,Married,3.0,0,5,1,2.0,Manager,22678.0,0
+3773,203773,30.0,Self Enquiry,2,13.0,Small Business,Male,3,5.0,Basic,4.0,Married,3.0,0,3,1,2.0,Executive,21482.0,0
+3173,203173,36.0,Self Enquiry,1,32.0,Small Business,Female,3,4.0,Standard,3.0,Married,3.0,1,3,1,2.0,Senior Manager,29066.0,0
+2999,202999,30.0,Self Enquiry,3,17.0,Small Business,Male,3,4.0,Basic,4.0,Married,3.0,0,2,0,2.0,Executive,20975.0,0
+1737,201737,,Company Invited,1,11.0,Salaried,Male,2,1.0,Deluxe,5.0,Married,2.0,0,5,1,1.0,Manager,,0
+4056,204056,39.0,Self Enquiry,1,10.0,Large Business,Female,3,4.0,Deluxe,3.0,Unmarried,5.0,1,5,1,1.0,Manager,22995.0,0
+3237,203237,29.0,Self Enquiry,1,22.0,Salaried,Male,3,4.0,Basic,3.0,Married,3.0,0,4,1,2.0,Executive,20885.0,0
+1654,201654,53.0,Self Enquiry,1,,Small Business,Female,2,1.0,Deluxe,5.0,Married,2.0,0,1,1,0.0,Manager,,0
+1223,201223,47.0,Company Invited,3,15.0,Salaried,Male,2,5.0,Super Deluxe,3.0,Married,1.0,0,5,1,1.0,AVP,27936.0,1
+2432,202432,51.0,Self Enquiry,3,33.0,Salaried,Male,2,3.0,Deluxe,3.0,Single,2.0,1,5,1,1.0,Manager,29026.0,1
+1169,201169,,Self Enquiry,1,14.0,Small Business,Female,2,1.0,Basic,3.0,Married,1.0,0,4,0,0.0,Executive,18517.0,0
+869,200869,46.0,Self Enquiry,1,21.0,Salaried,Male,2,3.0,King,4.0,Divorced,6.0,0,3,1,1.0,VP,34081.0,0
+3610,203610,49.0,Company Invited,1,11.0,Small Business,Male,3,5.0,Super Deluxe,3.0,Married,4.0,0,5,1,2.0,AVP,33880.0,0
+4594,204594,37.0,Self Enquiry,1,14.0,Salaried,Male,4,4.0,Basic,3.0,Unmarried,4.0,0,3,1,3.0,Executive,23356.0,0
+2899,202899,34.0,Self Enquiry,1,7.0,Small Business,Female,4,3.0,Super Deluxe,3.0,Married,6.0,0,2,0,,AVP,34862.0,0
+2935,202935,44.0,Company Invited,1,16.0,Small Business,Male,4,4.0,Deluxe,3.0,Married,5.0,1,3,1,1.0,Manager,24357.0,0
+2831,202831,41.0,Self Enquiry,3,9.0,Small Business,Female,3,4.0,Deluxe,4.0,Married,2.0,0,2,0,2.0,Manager,24393.0,0
+2583,202583,31.0,Self Enquiry,2,16.0,Salaried,Male,3,4.0,Deluxe,3.0,Divorced,2.0,1,3,1,2.0,Manager,25025.0,0
+4762,204762,36.0,Company Invited,1,11.0,Salaried,Male,3,5.0,Basic,3.0,Married,3.0,0,1,1,2.0,Executive,21054.0,0
+253,200253,42.0,Self Enquiry,1,23.0,Salaried,Female,2,2.0,Deluxe,5.0,Unmarried,4.0,1,2,0,0.0,Manager,21545.0,0
+4180,204180,32.0,Self Enquiry,1,30.0,Small Business,Male,4,5.0,Deluxe,3.0,Married,2.0,0,3,0,2.0,Manager,24260.0,0
+3129,203129,27.0,Company Invited,3,7.0,Small Business,Male,3,5.0,Deluxe,5.0,Unmarried,3.0,0,3,1,2.0,Manager,22972.0,0
+426,200426,30.0,Company Invited,1,8.0,Small Business,Female,2,3.0,Basic,3.0,Single,1.0,0,4,1,0.0,Executive,17564.0,0
+4562,204562,38.0,Company Invited,3,28.0,Small Business,Female,3,4.0,Basic,3.0,Married,7.0,0,1,1,1.0,Executive,21651.0,0
+4503,204503,30.0,Self Enquiry,1,7.0,Salaried,Female,3,5.0,Basic,5.0,Married,3.0,1,1,0,1.0,Executive,20997.0,1
+1531,201531,38.0,Company Invited,1,35.0,Salaried,Female,2,3.0,Deluxe,3.0,Single,2.0,0,3,1,0.0,Manager,17406.0,0
+4754,204754,36.0,Self Enquiry,1,7.0,Small Business,Male,3,5.0,Basic,3.0,Married,8.0,0,1,1,2.0,Executive,20936.0,0
+4588,204588,59.0,Self Enquiry,1,12.0,Large Business,Female,3,5.0,Standard,4.0,Married,4.0,1,5,1,2.0,Senior Manager,29230.0,0
+1621,201621,35.0,Self Enquiry,3,6.0,Small Business,Male,3,3.0,Standard,4.0,Married,2.0,0,4,0,0.0,Senior Manager,22295.0,0
+4392,204392,26.0,Self Enquiry,3,20.0,Small Business,Male,3,4.0,Basic,3.0,Married,3.0,0,3,1,2.0,Executive,20774.0,0
+1114,201114,48.0,Self Enquiry,1,21.0,Salaried,Female,3,3.0,Basic,5.0,Married,1.0,0,1,1,0.0,Executive,17367.0,0
+3133,203133,21.0,Self Enquiry,1,11.0,Large Business,Male,3,4.0,Basic,5.0,Unmarried,3.0,0,3,1,2.0,Executive,21651.0,1
+3932,203932,54.0,Self Enquiry,3,9.0,Salaried,Female,4,5.0,Super Deluxe,3.0,Married,4.0,0,3,0,1.0,AVP,34105.0,0
+3303,203303,30.0,Self Enquiry,1,22.0,Salaried,Female,4,6.0,Basic,3.0,Divorced,2.0,1,5,1,1.0,Executive,20846.0,0
+2435,202435,,Self Enquiry,2,26.0,Small Business,Female,3,3.0,Basic,4.0,Married,1.0,1,3,0,1.0,Executive,18669.0,1
+665,200665,47.0,Self Enquiry,3,8.0,Salaried,Female,3,4.0,Basic,3.0,Single,2.0,1,2,1,0.0,Executive,18294.0,0
+704,200704,35.0,Self Enquiry,3,9.0,Salaried,Male,3,3.0,Standard,3.0,Married,7.0,0,5,0,1.0,Senior Manager,22823.0,0
+4727,204727,40.0,Company Invited,1,9.0,Salaried,Male,3,4.0,Super Deluxe,3.0,Married,2.0,0,3,1,1.0,AVP,30847.0,1
+3631,203631,39.0,Company Invited,1,7.0,Salaried,Male,3,4.0,Deluxe,3.0,Married,2.0,0,5,1,1.0,Manager,23413.0,0
+1395,201395,31.0,Company Invited,3,32.0,Small Business,Male,3,3.0,Deluxe,3.0,Married,2.0,1,3,0,1.0,Manager,20617.0,1
+1997,201997,32.0,Self Enquiry,3,16.0,Small Business,Male,2,3.0,Deluxe,3.0,Single,2.0,0,4,1,1.0,Manager,20396.0,0
+592,200592,47.0,Self Enquiry,1,8.0,Salaried,Female,2,3.0,Super Deluxe,3.0,Divorced,2.0,1,4,1,0.0,AVP,31752.0,0
+4701,204701,56.0,Company Invited,1,9.0,Salaried,Male,4,4.0,Standard,4.0,Married,5.0,0,1,0,2.0,Senior Manager,29654.0,0
+41,200041,27.0,Self Enquiry,1,8.0,Salaried,Female,2,3.0,Basic,5.0,Married,2.0,0,3,0,1.0,Executive,17341.0,0
+3231,203231,56.0,Company Invited,1,9.0,Salaried,Male,4,4.0,Standard,4.0,Divorced,5.0,0,2,1,2.0,Senior Manager,29654.0,0
+197,200197,42.0,Company Invited,1,27.0,Small Business,Female,2,3.0,Deluxe,3.0,Married,3.0,0,2,0,0.0,Manager,20265.0,0
+1540,201540,59.0,Company Invited,3,6.0,Salaried,Female,2,4.0,Deluxe,3.0,Single,1.0,0,5,1,0.0,Manager,20473.0,0
+1844,201844,28.0,Self Enquiry,3,15.0,Salaried,Male,3,3.0,Deluxe,3.0,Single,2.0,0,3,1,1.0,Manager,20253.0,0
+1438,201438,23.0,Company Invited,3,15.0,Small Business,Male,2,3.0,Basic,5.0,Married,2.0,0,5,1,0.0,Executive,16790.0,1
+2433,202433,38.0,Company Invited,1,15.0,Salaried,Male,3,3.0,Deluxe,5.0,Married,5.0,0,3,0,2.0,Manager,21893.0,1
+1552,201552,55.0,Self Enquiry,3,6.0,Salaried,Male,3,3.0,Standard,3.0,Married,4.0,0,1,0,2.0,Senior Manager,25239.0,0
+4411,204411,45.0,Self Enquiry,1,10.0,Salaried,Male,3,4.0,King,3.0,Married,,1,1,0,2.0,VP,38191.0,0
+201,200201,49.0,Company Invited,1,24.0,Salaried,Male,3,3.0,Deluxe,3.0,Married,2.0,1,2,0,1.0,Manager,21804.0,0
+3039,203039,59.0,Self Enquiry,1,9.0,Salaried,Male,3,4.0,King,4.0,Single,,1,3,1,2.0,VP,37924.0,1
+981,200981,35.0,Company Invited,3,,Small Business,Female,3,3.0,Deluxe,3.0,Divorced,1.0,1,5,1,2.0,Manager,19614.0,1
+3985,203985,30.0,Self Enquiry,1,9.0,Salaried,Male,4,4.0,Basic,4.0,Married,2.0,0,4,1,1.0,Executive,21381.0,0
+3999,203999,57.0,Self Enquiry,1,14.0,Salaried,Male,3,6.0,Standard,3.0,Unmarried,6.0,0,1,0,1.0,Senior Manager,25938.0,0
+2360,202360,54.0,Company Invited,1,7.0,Salaried,Female,2,3.0,Standard,3.0,Married,1.0,0,5,0,1.0,Senior Manager,25502.0,0
+3342,203342,44.0,Self Enquiry,1,10.0,Salaried,Male,4,6.0,King,,Divorced,5.0,0,5,1,3.0,VP,38418.0,0
+1542,201542,31.0,Self Enquiry,1,6.0,Small Business,Male,2,3.0,Basic,4.0,Single,2.0,0,3,1,0.0,Executive,17501.0,0
+3870,203870,33.0,Self Enquiry,1,36.0,Salaried,Female,3,5.0,Basic,4.0,Unmarried,3.0,0,3,1,1.0,Executive,21515.0,0
+672,200672,42.0,Self Enquiry,3,20.0,Small Business,Female,3,4.0,Deluxe,3.0,Single,1.0,0,3,0,0.0,Manager,21244.0,0
+3294,203294,33.0,Company Invited,3,9.0,Salaried,Female,4,4.0,Basic,5.0,Married,3.0,0,3,0,2.0,Executive,21505.0,0
+2773,202773,48.0,Self Enquiry,1,12.0,Salaried,Male,3,4.0,King,3.0,Divorced,,0,2,0,2.0,VP,36978.0,0
+2787,202787,30.0,Self Enquiry,3,17.0,Small Business,Female,3,5.0,Deluxe,4.0,Married,3.0,1,5,0,2.0,Manager,26946.0,0
+3260,203260,40.0,Company Invited,1,16.0,Salaried,Male,4,4.0,Deluxe,4.0,Unmarried,22.0,0,2,1,1.0,Manager,25460.0,0
+2853,202853,43.0,Company Invited,1,36.0,Salaried,Female,4,4.0,Deluxe,3.0,Married,4.0,0,3,1,3.0,Manager,23234.0,0
+2530,202530,24.0,Self Enquiry,3,9.0,Large Business,Male,4,4.0,Basic,5.0,Married,5.0,0,3,1,2.0,Executive,21000.0,0
+1884,201884,24.0,Self Enquiry,3,6.0,Large Business,Female,3,3.0,Basic,4.0,Single,2.0,1,4,0,0.0,Executive,18202.0,1
+3025,203025,31.0,Self Enquiry,1,7.0,Salaried,Male,3,6.0,Basic,3.0,Divorced,5.0,0,4,1,1.0,Executive,22511.0,0
+3388,203388,29.0,Company Invited,1,7.0,Salaried,Female,3,6.0,Deluxe,3.0,Divorced,2.0,0,3,1,1.0,Manager,25352.0,0
+4348,204348,32.0,Self Enquiry,1,16.0,Salaried,Male,3,4.0,Standard,4.0,Married,3.0,0,3,0,1.0,Senior Manager,29326.0,0
+3713,203713,44.0,Self Enquiry,2,9.0,Salaried,Male,4,4.0,Basic,3.0,Unmarried,2.0,0,1,0,1.0,Executive,22217.0,0
+461,200461,35.0,Self Enquiry,3,,Small Business,Female,3,3.0,Deluxe,3.0,Single,2.0,0,4,0,2.0,Manager,19859.0,0
+4567,204567,51.0,Company Invited,1,9.0,Salaried,Male,4,4.0,Super Deluxe,5.0,Married,,0,5,1,2.0,AVP,36602.0,0
+4225,204225,46.0,Company Invited,1,14.0,Salaried,Male,4,4.0,Standard,5.0,Married,3.0,0,1,1,1.0,Senior Manager,23888.0,0
+12,200012,31.0,Self Enquiry,1,32.0,Salaried,Male,2,3.0,Basic,3.0,Married,2.0,0,3,0,1.0,Executive,17911.0,0
+2823,202823,56.0,Self Enquiry,1,9.0,Salaried,Female,4,4.0,Super Deluxe,3.0,Single,4.0,1,5,0,,AVP,35337.0,0
+4742,204742,19.0,Company Invited,1,15.0,Small Business,Male,4,4.0,Basic,3.0,Single,3.0,0,5,1,1.0,Executive,20582.0,1
+3748,203748,41.0,Self Enquiry,1,19.0,Salaried,Female,3,4.0,Deluxe,5.0,Married,4.0,0,1,1,2.0,Manager,23126.0,0
+683,200683,25.0,Self Enquiry,3,25.0,Small Business,Male,2,4.0,Basic,4.0,Divorced,2.0,1,2,0,0.0,Executive,17413.0,1
+1024,201024,47.0,Self Enquiry,1,8.0,Small Business,Female,2,3.0,Super Deluxe,3.0,Divorced,4.0,0,5,1,0.0,AVP,32169.0,0
+1099,201099,45.0,Self Enquiry,1,6.0,Large Business,Male,3,3.0,Standard,4.0,Married,2.0,0,3,1,1.0,Senior Manager,22441.0,0
+4732,204732,32.0,Company Invited,3,27.0,Salaried,Male,4,2.0,Basic,3.0,Married,2.0,0,5,1,1.0,Executive,21469.0,0
+2510,202510,37.0,Company Invited,1,18.0,Salaried,Male,4,5.0,Deluxe,4.0,Unmarried,3.0,0,4,1,2.0,Manager,25177.0,0
+3434,203434,34.0,Company Invited,3,12.0,Salaried,Male,4,4.0,Deluxe,3.0,Divorced,8.0,0,1,1,3.0,Manager,28676.0,0
+689,200689,20.0,Self Enquiry,1,10.0,Large Business,Male,2,3.0,Basic,5.0,Single,2.0,0,3,1,1.0,Executive,17973.0,1
+3491,203491,34.0,Company Invited,3,14.0,Small Business,Male,3,4.0,Deluxe,5.0,Divorced,2.0,0,3,0,1.0,Manager,23051.0,0
+1348,201348,40.0,Self Enquiry,1,6.0,Salaried,Male,3,3.0,Super Deluxe,5.0,Married,3.0,0,3,1,2.0,AVP,31823.0,0
+165,200165,50.0,Self Enquiry,1,17.0,Salaried,Female,2,3.0,King,4.0,Single,4.0,0,5,1,,VP,34926.0,0
+818,200818,31.0,Company Invited,3,26.0,Salaried,Male,3,1.0,Basic,3.0,Divorced,1.0,0,5,1,1.0,Executive,17791.0,0
+4300,204300,38.0,Self Enquiry,1,21.0,Salaried,Female,4,4.0,Basic,5.0,Married,3.0,0,4,1,2.0,Executive,21712.0,0
+1953,201953,,Self Enquiry,1,31.0,Salaried,Male,2,4.0,Deluxe,3.0,Single,5.0,0,1,1,0.0,Manager,18681.0,0
+1752,201752,29.0,Company Invited,3,,Salaried,Male,2,3.0,Deluxe,3.0,Single,2.0,0,1,0,1.0,Manager,19554.0,0
+3922,203922,39.0,Company Invited,1,30.0,Salaried,Male,3,5.0,Standard,3.0,Unmarried,2.0,0,3,1,1.0,Senior Manager,28204.0,0
+2,200002,37.0,Self Enquiry,1,8.0,Free Lancer,Male,3,4.0,Basic,3.0,Single,7.0,1,3,0,0.0,Executive,17090.0,1
+2270,202270,28.0,Company Invited,1,6.0,Small Business,Male,2,4.0,Basic,4.0,Married,2.0,0,4,1,0.0,Executive,17596.0,1
+2880,202880,34.0,Self Enquiry,1,17.0,Small Business,Male,3,6.0,Basic,3.0,Married,2.0,0,5,0,1.0,Executive,22086.0,1
+1596,201596,58.0,Self Enquiry,1,29.0,Small Business,Female,3,3.0,Standard,3.0,Married,2.0,0,3,1,0.0,Senior Manager,25312.0,1
+3898,203898,46.0,Self Enquiry,3,27.0,Salaried,Female,3,4.0,Deluxe,3.0,Unmarried,2.0,0,1,1,1.0,Manager,23528.0,0
+3293,203293,44.0,Self Enquiry,3,16.0,Small Business,Fe Male,3,6.0,Deluxe,3.0,Unmarried,2.0,0,2,1,2.0,Manager,24024.0,1
+3055,203055,36.0,Self Enquiry,1,14.0,Salaried,Male,3,4.0,Standard,3.0,Single,5.0,0,3,0,1.0,Senior Manager,28899.0,0
+2399,202399,,Company Invited,3,19.0,Large Business,Female,2,3.0,Deluxe,4.0,Single,6.0,0,3,1,0.0,Manager,,1
+1924,201924,29.0,Self Enquiry,1,,Large Business,Male,2,3.0,Deluxe,3.0,Married,5.0,0,5,1,0.0,Manager,,0
+2135,202135,47.0,Self Enquiry,3,8.0,Salaried,Female,3,4.0,Basic,3.0,Single,2.0,1,1,0,0.0,Executive,18294.0,0
+1745,201745,37.0,Company Invited,1,6.0,Small Business,Female,3,3.0,Standard,3.0,Married,3.0,1,3,0,0.0,Senior Manager,28603.0,0
+3220,203220,21.0,Company Invited,3,16.0,Small Business,Female,3,4.0,Basic,3.0,Single,3.0,1,4,0,1.0,Executive,21001.0,1
+2949,202949,27.0,Self Enquiry,1,13.0,Salaried,Female,4,4.0,Basic,3.0,Divorced,3.0,1,2,0,1.0,Executive,21337.0,0
+805,200805,45.0,Company Invited,3,15.0,Salaried,Female,3,4.0,Deluxe,3.0,Divorced,2.0,0,3,0,0.0,Manager,20593.0,0
+1931,201931,35.0,Self Enquiry,3,,Small Business,Female,3,3.0,Deluxe,3.0,Single,2.0,0,4,1,0.0,Manager,19859.0,0
+375,200375,49.0,Self Enquiry,1,13.0,Salaried,Male,2,4.0,Standard,3.0,Unmarried,1.0,0,2,1,1.0,Senior Manager,25965.0,0
+2152,202152,32.0,Company Invited,1,6.0,Salaried,Female,3,4.0,Basic,4.0,Married,7.0,0,3,0,2.0,Executive,17332.0,0
+3476,203476,40.0,Company Invited,1,9.0,Salaried,Female,3,5.0,Basic,5.0,Unmarried,4.0,1,3,0,1.0,Executive,22324.0,1
+4111,204111,43.0,Company Invited,1,28.0,Small Business,Female,3,4.0,Deluxe,3.0,Married,4.0,0,1,0,1.0,Manager,23943.0,0
+2716,202716,29.0,Self Enquiry,1,16.0,Small Business,Male,4,4.0,Basic,3.0,Divorced,3.0,0,2,1,2.0,Executive,20748.0,0
+2703,202703,32.0,Company Invited,1,36.0,Small Business,Male,4,5.0,Basic,4.0,Unmarried,2.0,0,3,1,3.0,Executive,22157.0,1
+3589,203589,37.0,Self Enquiry,1,19.0,Salaried,Female,4,4.0,Deluxe,3.0,Married,2.0,1,1,0,3.0,Manager,23341.0,0
+1912,201912,36.0,Company Invited,3,16.0,Small Business,Male,2,3.0,Standard,3.0,Unmarried,2.0,0,1,1,1.0,Senior Manager,24980.0,0
+2157,202157,36.0,Self Enquiry,1,8.0,Small Business,Male,3,3.0,Basic,3.0,Single,5.0,0,5,1,1.0,Executive,17519.0,0
+2922,202922,26.0,Self Enquiry,3,20.0,Small Business,Male,3,4.0,Basic,3.0,Divorced,3.0,0,3,1,1.0,Executive,20774.0,0
+1166,201166,48.0,Company Invited,1,10.0,Small Business,Male,2,4.0,Super Deluxe,3.0,Married,3.0,0,5,1,1.0,AVP,30202.0,0
+4266,204266,49.0,Self Enquiry,3,36.0,Small Business,Female,4,4.0,Standard,3.0,Married,5.0,0,4,0,2.0,Senior Manager,31182.0,0
+4516,204516,31.0,Self Enquiry,1,9.0,Small Business,Fe Male,3,5.0,Deluxe,3.0,Unmarried,7.0,1,1,1,2.0,Manager,25555.0,0
+4289,204289,50.0,Self Enquiry,1,14.0,Salaried,Male,3,5.0,Standard,3.0,Single,2.0,0,1,1,1.0,Senior Manager,29643.0,0
+3537,203537,43.0,Company Invited,1,9.0,Salaried,Male,3,4.0,Standard,3.0,Married,4.0,1,3,1,1.0,Senior Manager,28802.0,0
+2373,202373,29.0,Company Invited,1,16.0,Salaried,Female,2,4.0,Basic,3.0,Unmarried,2.0,0,4,1,0.0,Executive,21623.0,1
+4303,204303,38.0,Self Enquiry,1,17.0,Salaried,Male,3,4.0,Deluxe,4.0,Unmarried,4.0,1,5,0,2.0,Manager,22875.0,0
+479,200479,24.0,Company Invited,1,13.0,Salaried,Female,2,3.0,Basic,3.0,Divorced,2.0,1,4,0,0.0,Executive,17886.0,1
+59,200059,37.0,Self Enquiry,1,6.0,Salaried,Male,2,4.0,Deluxe,3.0,Married,2.0,0,5,1,1.0,Manager,20993.0,0
+2921,202921,51.0,Company Invited,2,10.0,Small Business,Male,3,4.0,King,4.0,Divorced,,0,2,1,1.0,VP,36878.0,0
+1443,201443,42.0,Self Enquiry,1,8.0,Salaried,Male,2,3.0,King,3.0,Married,6.0,0,3,1,1.0,VP,33880.0,0
+2397,202397,36.0,Self Enquiry,2,15.0,Large Business,Female,2,3.0,Basic,3.0,Married,2.0,0,1,1,0.0,Executive,20410.0,1
+3543,203543,46.0,Self Enquiry,1,7.0,Large Business,Male,4,4.0,Standard,4.0,Married,3.0,0,3,1,2.0,Senior Manager,26119.0,0
+2527,202527,39.0,Company Invited,1,13.0,Small Business,Female,4,6.0,Deluxe,3.0,Married,2.0,1,2,0,3.0,Manager,24007.0,0
+4256,204256,32.0,Self Enquiry,1,14.0,Small Business,Fe Male,3,4.0,Standard,3.0,Unmarried,3.0,1,4,1,2.0,Senior Manager,25821.0,0
+107,200107,25.0,Self Enquiry,3,11.0,Small Business,Male,2,4.0,Deluxe,3.0,Single,2.0,1,3,1,0.0,Manager,20744.0,1
+688,200688,19.0,Self Enquiry,3,27.0,Salaried,Male,2,4.0,Basic,4.0,Single,2.0,1,2,0,1.0,Executive,17121.0,1
+3297,203297,20.0,Self Enquiry,1,16.0,Salaried,Male,3,4.0,Basic,5.0,Single,3.0,0,3,0,1.0,Executive,21230.0,0
+4868,204868,43.0,Company Invited,2,15.0,Salaried,Female,4,5.0,Basic,3.0,Married,,0,5,1,2.0,Executive,36539.0,1
+2964,202964,49.0,Self Enquiry,3,9.0,Small Business,Male,3,3.0,Deluxe,4.0,Divorced,5.0,0,3,1,1.0,Manager,26798.0,0
+3148,203148,36.0,Self Enquiry,3,10.0,Salaried,Male,4,4.0,Standard,3.0,Married,8.0,0,5,0,2.0,Senior Manager,26501.0,0
+3243,203243,43.0,Self Enquiry,1,9.0,Small Business,Male,3,4.0,Super Deluxe,5.0,Divorced,,0,3,1,2.0,AVP,36343.0,0
+4572,204572,45.0,Self Enquiry,1,16.0,Salaried,Male,4,4.0,Basic,5.0,Married,3.0,1,3,1,1.0,Executive,21237.0,0
+571,200571,26.0,,1,,Salaried,Female,3,5.0,Basic,3.0,Married,4.0,0,4,1,2.0,Executive,,0
+1492,201492,34.0,Self Enquiry,1,13.0,Salaried,Fe Male,2,3.0,Standard,4.0,Unmarried,1.0,0,5,0,0.0,Senior Manager,26994.0,0
+1839,201839,31.0,Self Enquiry,1,15.0,Salaried,Male,2,4.0,Basic,4.0,Single,1.0,1,3,1,0.0,Executive,17657.0,0
+2008,202008,41.0,Self Enquiry,2,6.0,Salaried,Male,2,4.0,King,3.0,Married,2.0,0,1,1,1.0,VP,34189.0,0
+4045,204045,51.0,Company Invited,3,19.0,Small Business,Fe Male,4,4.0,Standard,3.0,Unmarried,6.0,0,5,1,3.0,Senior Manager,27886.0,0
+1175,201175,39.0,Self Enquiry,1,18.0,Small Business,Male,3,3.0,Deluxe,4.0,Married,5.0,0,3,1,1.0,Manager,20295.0,0
+2093,202093,,Company Invited,1,11.0,Salaried,Male,3,4.0,Basic,3.0,Married,1.0,0,5,0,0.0,Executive,,0
+1804,201804,,Self Enquiry,1,14.0,Salaried,Male,3,3.0,Deluxe,3.0,Married,1.0,0,3,1,0.0,Manager,18697.0,0
+3938,203938,35.0,Self Enquiry,1,13.0,Small Business,Male,3,4.0,Basic,5.0,Unmarried,4.0,0,4,0,1.0,Executive,21638.0,1
+1005,201005,29.0,Self Enquiry,2,23.0,Salaried,Male,2,4.0,Standard,5.0,Unmarried,2.0,0,3,0,0.0,Senior Manager,22988.0,0
+80,200080,30.0,Self Enquiry,1,6.0,Salaried,Male,2,4.0,Deluxe,3.0,Divorced,2.0,1,2,1,1.0,Manager,20126.0,0
+3026,203026,41.0,Company Invited,1,9.0,Small Business,Female,3,2.0,Deluxe,4.0,Divorced,3.0,0,3,0,2.0,Manager,22922.0,0
+1707,201707,52.0,Company Invited,3,8.0,Salaried,Male,3,4.0,King,3.0,Single,2.0,1,1,1,0.0,VP,34068.0,0
+376,200376,51.0,Self Enquiry,3,20.0,Salaried,Female,2,,Deluxe,3.0,Divorced,5.0,0,3,0,1.0,Manager,19936.0,0
+175,200175,56.0,Self Enquiry,1,,Salaried,Female,3,3.0,Basic,5.0,Married,5.0,1,4,1,1.0,Executive,,0
+1496,201496,,Company Invited,1,22.0,Salaried,Female,3,5.0,Basic,5.0,Single,2.0,1,4,0,0.0,Executive,,1
+3803,203803,35.0,Self Enquiry,3,10.0,Small Business,Female,4,5.0,Deluxe,3.0,Married,5.0,1,3,0,1.0,Manager,26781.0,0
+4539,204539,46.0,Self Enquiry,3,16.0,Small Business,Male,4,4.0,Standard,5.0,Married,6.0,1,1,0,1.0,Senior Manager,29439.0,0
+76,200076,35.0,Self Enquiry,3,,Small Business,Male,2,4.0,Deluxe,5.0,Single,1.0,0,2,0,1.0,Manager,,0
+852,200852,29.0,Self Enquiry,1,12.0,Small Business,Female,2,3.0,Basic,3.0,Divorced,2.0,0,3,0,0.0,Executive,18131.0,0
+1385,201385,34.0,Self Enquiry,3,19.0,Small Business,Male,2,3.0,Standard,3.0,Married,2.0,0,1,1,1.0,Senior Manager,23628.0,0
+3454,203454,56.0,Self Enquiry,1,7.0,Small Business,Male,3,2.0,Super Deluxe,3.0,Married,4.0,0,5,1,1.0,AVP,33410.0,0
+1304,201304,40.0,Self Enquiry,1,,Salaried,Female,2,3.0,Deluxe,5.0,Married,3.0,0,1,1,1.0,Manager,,0
+4724,204724,47.0,Self Enquiry,3,10.0,Small Business,Male,3,4.0,Super Deluxe,3.0,Married,,0,1,1,1.0,AVP,36143.0,0
+3274,203274,42.0,Self Enquiry,1,19.0,Salaried,Male,3,4.0,Basic,3.0,Divorced,5.0,1,3,1,1.0,Executive,23444.0,0
+3498,203498,50.0,Self Enquiry,1,14.0,Salaried,Male,3,4.0,Standard,4.0,Married,5.0,0,4,0,2.0,Senior Manager,29144.0,0
+3134,203134,32.0,Self Enquiry,1,19.0,Small Business,Female,3,4.0,Deluxe,3.0,Divorced,2.0,1,4,0,2.0,Manager,24533.0,0
+4758,204758,31.0,Self Enquiry,3,17.0,Small Business,Male,4,5.0,Deluxe,3.0,Married,3.0,0,1,0,2.0,Manager,25256.0,0
+1967,201967,44.0,Self Enquiry,1,9.0,Salaried,Male,2,3.0,King,3.0,Married,5.0,1,1,0,1.0,VP,34513.0,0
+103,200103,34.0,Self Enquiry,1,,Salaried,Female,2,3.0,Deluxe,3.0,Single,2.0,0,3,1,0.0,Manager,19809.0,0
+2691,202691,35.0,Self Enquiry,1,9.0,Salaried,Male,3,5.0,Deluxe,5.0,Divorced,8.0,0,4,0,2.0,Manager,24635.0,0
+2083,202083,,Self Enquiry,2,9.0,Salaried,Male,2,3.0,Basic,3.0,Married,1.0,0,1,1,0.0,Executive,,0
+3353,203353,20.0,Self Enquiry,1,32.0,Salaried,Female,3,2.0,Basic,3.0,Unmarried,3.0,1,5,1,1.0,Executive,21672.0,0
+4735,204735,50.0,Self Enquiry,3,15.0,Large Business,Male,3,5.0,Super Deluxe,4.0,Married,8.0,0,4,1,2.0,AVP,31798.0,0
+3082,203082,26.0,Self Enquiry,3,11.0,Small Business,Male,3,5.0,Deluxe,5.0,Divorced,3.0,0,3,1,2.0,Manager,22934.0,0
+509,200509,33.0,Company Invited,1,12.0,Salaried,Male,1,3.0,Deluxe,3.0,Married,4.0,0,5,1,0.0,Manager,22725.0,0
+3584,203584,45.0,Self Enquiry,1,14.0,Small Business,Female,3,4.0,King,3.0,Married,,1,4,1,2.0,VP,37727.0,0
+505,200505,26.0,Self Enquiry,1,12.0,Salaried,Female,3,3.0,Basic,3.0,Divorced,2.0,1,2,0,0.0,Executive,17659.0,0
+3122,203122,49.0,Self Enquiry,1,27.0,Small Business,Male,3,4.0,Basic,3.0,Divorced,6.0,0,2,0,1.0,Executive,20937.0,0
+106,200106,50.0,Company Invited,1,6.0,Salaried,Female,3,3.0,King,4.0,Divorced,4.0,1,2,0,2.0,VP,33172.0,0
+789,200789,44.0,Self Enquiry,2,6.0,Small Business,Male,3,4.0,Standard,5.0,Divorced,1.0,0,4,1,0.0,Senior Manager,25482.0,1
+2504,202504,33.0,Self Enquiry,1,7.0,Small Business,Male,3,4.0,Deluxe,3.0,Divorced,3.0,1,4,1,1.0,Manager,24840.0,0
+3597,203597,19.0,Company Invited,3,10.0,Small Business,Female,4,4.0,Basic,3.0,Single,3.0,1,5,0,2.0,Executive,20247.0,1
+4261,204261,48.0,Company Invited,3,11.0,Small Business,Male,4,4.0,Deluxe,3.0,Unmarried,5.0,0,4,0,3.0,Manager,21654.0,0
+2906,202906,35.0,Self Enquiry,3,28.0,Salaried,Male,4,3.0,Deluxe,3.0,Unmarried,3.0,0,3,1,1.0,Manager,24015.0,0
+654,200654,39.0,Self Enquiry,2,8.0,Salaried,Female,2,4.0,Deluxe,3.0,Divorced,1.0,0,3,0,0.0,Manager,20204.0,0
+2668,202668,32.0,Company Invited,1,7.0,Small Business,Male,3,6.0,Deluxe,3.0,Divorced,2.0,0,3,1,1.0,Manager,23023.0,0
+2443,202443,35.0,Self Enquiry,1,13.0,Salaried,Male,3,3.0,Basic,4.0,Single,2.0,1,3,1,1.0,Executive,20363.0,1
+433,200433,46.0,Self Enquiry,3,16.0,Small Business,Female,3,4.0,Standard,3.0,Divorced,3.0,1,2,1,1.0,Senior Manager,24071.0,0
+2044,202044,34.0,Self Enquiry,1,6.0,Salaried,Female,3,1.0,Basic,3.0,Single,3.0,0,1,1,1.0,Executive,18280.0,0
+1765,201765,42.0,Company Invited,3,32.0,Small Business,Female,3,3.0,Super Deluxe,4.0,Married,6.0,0,3,1,1.0,AVP,28525.0,0
+2216,202216,41.0,Company Invited,1,13.0,Salaried,Female,2,5.0,King,3.0,Married,2.0,0,4,1,,VP,34973.0,0
+2518,202518,37.0,Self Enquiry,1,13.0,Salaried,Female,3,3.0,Deluxe,3.0,Divorced,5.0,0,2,0,1.0,Manager,21716.0,0
+568,200568,55.0,Self Enquiry,1,8.0,Small Business,Male,3,3.0,King,5.0,Divorced,6.0,1,2,1,,VP,34859.0,1
+402,200402,30.0,Self Enquiry,3,18.0,Large Business,Female,2,3.0,Deluxe,3.0,Unmarried,1.0,0,2,1,0.0,Manager,21577.0,0
+3850,203850,55.0,Self Enquiry,1,17.0,Small Business,Female,4,4.0,Deluxe,5.0,Unmarried,8.0,1,1,0,1.0,Manager,23118.0,0
+1318,201318,,Company Invited,1,26.0,Small Business,Male,2,3.0,Basic,3.0,Married,2.0,0,3,1,1.0,Executive,,0
+63,200063,59.0,Self Enquiry,3,31.0,Salaried,Female,2,3.0,Standard,5.0,Unmarried,1.0,0,3,1,0.0,Senior Manager,22637.0,0
+3725,203725,36.0,Self Enquiry,3,34.0,Salaried,Male,3,4.0,Deluxe,3.0,Unmarried,3.0,1,5,0,1.0,Manager,24491.0,1
+3823,203823,28.0,Company Invited,2,29.0,Salaried,Female,3,5.0,Basic,4.0,Married,3.0,0,1,1,1.0,Executive,21541.0,1
+2982,202982,42.0,Self Enquiry,2,7.0,Salaried,Male,3,5.0,King,3.0,Divorced,,0,2,1,2.0,VP,37867.0,0
+4532,204532,26.0,Self Enquiry,1,9.0,Small Business,Male,4,2.0,Basic,5.0,Unmarried,2.0,0,1,0,2.0,Executive,22102.0,0
+2116,202116,53.0,Self Enquiry,3,14.0,Small Business,Male,3,3.0,Super Deluxe,3.0,Married,6.0,0,3,1,0.0,AVP,26836.0,0
+2927,202927,36.0,Self Enquiry,1,32.0,Salaried,Male,3,5.0,Deluxe,3.0,Unmarried,6.0,0,2,0,2.0,Manager,22359.0,0
+3962,203962,47.0,Company Invited,3,12.0,Small Business,Male,4,4.0,Deluxe,3.0,Unmarried,6.0,1,5,1,2.0,Manager,24450.0,0
+4859,204859,51.0,Company Invited,3,19.0,Salaried,Male,3,4.0,Deluxe,3.0,Single,5.0,1,3,1,2.0,Manager,35558.0,1
+3229,203229,41.0,Self Enquiry,1,27.0,Large Business,Male,4,4.0,Standard,3.0,Divorced,6.0,0,3,1,2.0,Senior Manager,29000.0,0
+1295,201295,41.0,Self Enquiry,3,10.0,Small Business,Female,2,3.0,Standard,3.0,Married,1.0,1,1,0,1.0,Senior Manager,25447.0,0
+4555,204555,33.0,Company Invited,3,12.0,Salaried,Male,3,4.0,Deluxe,4.0,Married,3.0,0,3,1,2.0,Manager,25202.0,0
+3524,203524,47.0,Self Enquiry,3,10.0,Salaried,Female,3,4.0,Super Deluxe,4.0,Divorced,2.0,0,4,1,,AVP,35284.0,0
+3373,203373,29.0,Company Invited,1,9.0,Salaried,Male,3,5.0,Basic,3.0,Divorced,3.0,1,4,1,1.0,Executive,22545.0,0
+3428,203428,29.0,Self Enquiry,3,33.0,Salaried,Male,3,5.0,Deluxe,5.0,Divorced,3.0,0,4,1,1.0,Manager,23402.0,0
+625,200625,45.0,Self Enquiry,3,15.0,Small Business,Male,3,3.0,Standard,5.0,Married,5.0,1,2,1,0.0,Senior Manager,25761.0,0
+1410,201410,40.0,Self Enquiry,3,8.0,Small Business,Female,3,3.0,Deluxe,4.0,Married,4.0,0,3,1,1.0,Manager,20677.0,0
+2487,202487,28.0,Company Invited,3,15.0,Salaried,Male,3,4.0,Standard,3.0,Unmarried,3.0,0,2,1,1.0,Senior Manager,27404.0,0
+3282,203282,43.0,Company Invited,3,19.0,Salaried,Male,3,4.0,Super Deluxe,5.0,Single,2.0,1,5,1,2.0,AVP,32436.0,1
+2274,202274,48.0,Company Invited,1,6.0,Small Business,Male,2,1.0,Super Deluxe,3.0,Single,3.0,0,1,0,0.0,AVP,31885.0,0
+2099,202099,28.0,Self Enquiry,2,14.0,Small Business,Male,3,,Basic,3.0,Married,2.0,0,1,1,0.0,Executive,19936.0,0
+1253,201253,33.0,Company Invited,3,8.0,Small Business,Female,3,3.0,Deluxe,4.0,Single,1.0,0,1,0,0.0,Manager,20147.0,0
+3245,203245,51.0,Company Invited,3,7.0,Salaried,Male,3,4.0,Deluxe,3.0,Unmarried,5.0,1,2,0,1.0,Manager,23406.0,1
+3479,203479,32.0,Self Enquiry,2,15.0,Small Business,Female,4,2.0,Basic,4.0,Single,2.0,0,1,0,3.0,Executive,20787.0,0
+3614,203614,28.0,Company Invited,1,9.0,Small Business,Male,3,4.0,Basic,3.0,Single,4.0,0,3,0,2.0,Executive,21258.0,0
+3423,203423,35.0,Self Enquiry,1,36.0,Small Business,Male,3,4.0,Deluxe,3.0,Divorced,6.0,0,3,0,1.0,Manager,24107.0,0
+1682,201682,27.0,Company Invited,3,26.0,Salaried,Fe Male,2,3.0,Deluxe,3.0,Unmarried,2.0,0,1,1,1.0,Manager,24981.0,0
+2505,202505,39.0,Company Invited,1,36.0,Salaried,Female,3,4.0,Deluxe,3.0,Single,3.0,0,3,1,1.0,Manager,21084.0,0
+2405,202405,32.0,Company Invited,1,9.0,Salaried,Female,2,3.0,Basic,3.0,Single,2.0,0,4,1,0.0,Executive,21209.0,1
+3451,203451,30.0,Company Invited,1,21.0,Salaried,Fe Male,3,4.0,Standard,3.0,Unmarried,2.0,1,5,1,1.0,Senior Manager,26231.0,1
+4208,204208,38.0,Company Invited,1,16.0,Small Business,Male,3,4.0,Basic,3.0,Married,3.0,1,1,0,2.0,Executive,21004.0,0
+3358,203358,56.0,Company Invited,1,15.0,Small Business,Male,3,5.0,Super Deluxe,4.0,Married,3.0,1,3,1,2.0,AVP,32255.0,0
+1812,201812,31.0,Self Enquiry,1,13.0,Small Business,Female,2,3.0,Standard,3.0,Unmarried,2.0,1,4,1,1.0,Senior Manager,22143.0,0
+3308,203308,42.0,Company Invited,1,12.0,Salaried,Male,4,5.0,Basic,5.0,Married,8.0,0,3,1,1.0,Executive,20785.0,1
+1462,201462,39.0,Self Enquiry,3,30.0,Small Business,Female,2,4.0,Super Deluxe,3.0,Married,1.0,0,1,1,1.0,AVP,27031.0,0
+1851,201851,30.0,Self Enquiry,3,8.0,Large Business,Male,3,3.0,Basic,4.0,Married,2.0,0,3,1,0.0,Executive,17476.0,0
+4513,204513,37.0,Self Enquiry,2,20.0,Salaried,Male,3,4.0,Basic,4.0,Married,6.0,0,3,1,2.0,Executive,20821.0,0
+3910,203910,40.0,Self Enquiry,1,13.0,Small Business,Male,3,5.0,Standard,5.0,Married,6.0,0,4,1,1.0,Senior Manager,28669.0,0
+3535,203535,34.0,Self Enquiry,1,32.0,Salaried,Male,3,5.0,Deluxe,4.0,Unmarried,3.0,0,1,0,2.0,Manager,22998.0,0
+1493,201493,21.0,Self Enquiry,1,21.0,Salaried,Male,3,3.0,Basic,3.0,Single,2.0,0,5,1,1.0,Executive,16232.0,0
+2302,202302,37.0,Self Enquiry,1,31.0,Small Business,Female,2,4.0,Deluxe,3.0,Married,1.0,0,3,1,0.0,Manager,20731.0,0
+535,200535,41.0,Self Enquiry,2,16.0,Salaried,Male,3,4.0,King,3.0,Married,4.0,0,2,1,0.0,VP,34141.0,0
+2680,202680,34.0,Self Enquiry,1,9.0,Salaried,Female,3,4.0,Basic,5.0,Divorced,2.0,0,3,1,1.0,Executive,21385.0,1
+3957,203957,28.0,Company Invited,3,15.0,Salaried,Male,3,4.0,Standard,3.0,Unmarried,3.0,0,1,1,1.0,Senior Manager,27404.0,0
+1628,201628,40.0,Self Enquiry,3,10.0,Small Business,Male,3,4.0,Standard,3.0,Married,1.0,0,1,1,1.0,Senior Manager,25855.0,0
+3657,203657,24.0,Self Enquiry,3,14.0,Salaried,Male,3,4.0,Basic,3.0,Married,3.0,1,1,1,1.0,Executive,20953.0,1
+1037,201037,45.0,Self Enquiry,1,35.0,Large Business,Male,2,3.0,Standard,3.0,Divorced,5.0,1,5,1,0.0,Senior Manager,24380.0,0
+1843,201843,,Self Enquiry,1,6.0,Small Business,Male,2,3.0,Basic,4.0,Married,2.0,0,3,0,0.0,Executive,,0
+3415,203415,52.0,Self Enquiry,1,18.0,Large Business,Female,3,5.0,Super Deluxe,4.0,Single,5.0,0,1,0,2.0,AVP,31820.0,0
+3518,203518,34.0,Self Enquiry,1,15.0,Salaried,Male,4,4.0,Deluxe,3.0,Unmarried,4.0,1,3,0,3.0,Manager,25066.0,0
+842,200842,28.0,Self Enquiry,1,18.0,Salaried,Female,3,3.0,Basic,3.0,Divorced,2.0,1,4,1,0.0,Executive,17515.0,1
+4641,204641,19.0,Company Invited,1,,Salaried,Male,4,4.0,Basic,3.0,Single,3.0,0,1,0,2.0,Executive,19729.0,0
+3951,203951,36.0,Self Enquiry,3,9.0,Small Business,Female,4,4.0,Basic,3.0,Married,3.0,0,1,1,3.0,Executive,20692.0,0
+2860,202860,39.0,Company Invited,1,9.0,Salaried,Male,3,4.0,Basic,3.0,Divorced,3.0,1,5,1,2.0,Executive,20380.0,0
+3392,203392,31.0,Self Enquiry,1,24.0,Small Business,Female,4,4.0,Standard,5.0,Divorced,3.0,1,4,0,3.0,Senior Manager,30594.0,0
+1635,201635,50.0,Self Enquiry,1,17.0,Salaried,Female,2,3.0,King,4.0,Single,4.0,0,5,0,,VP,34926.0,0
+2723,202723,51.0,Self Enquiry,1,11.0,Salaried,Male,4,4.0,King,4.0,Married,,0,5,1,1.0,VP,37822.0,0
+3374,203374,52.0,Company Invited,1,13.0,Small Business,Female,3,5.0,Basic,3.0,Unmarried,2.0,0,5,1,2.0,Executive,21516.0,0
+1638,201638,38.0,Self Enquiry,3,6.0,Salaried,Fe Male,2,4.0,Deluxe,3.0,Unmarried,5.0,0,1,0,1.0,Manager,23686.0,0
+948,200948,30.0,Self Enquiry,1,23.0,Small Business,Female,3,3.0,Standard,5.0,Divorced,2.0,1,4,0,2.0,Senior Manager,26916.0,0
+279,200279,50.0,Self Enquiry,1,10.0,Salaried,Male,3,3.0,King,4.0,Married,4.0,0,5,1,0.0,VP,34144.0,0
+761,200761,36.0,Self Enquiry,1,,Salaried,Male,2,3.0,Deluxe,3.0,Married,1.0,0,4,0,0.0,Manager,19834.0,1
+4566,204566,38.0,Company Invited,3,26.0,Small Business,Male,3,4.0,Standard,4.0,Unmarried,3.0,1,5,0,1.0,Senior Manager,26320.0,0
+1049,201049,30.0,Self Enquiry,3,22.0,Salaried,Male,3,3.0,Deluxe,3.0,Divorced,1.0,0,3,0,2.0,Manager,20301.0,0
+4528,204528,27.0,Company Invited,1,12.0,Small Business,Female,3,5.0,Basic,3.0,Married,3.0,1,1,0,2.0,Executive,21044.0,1
+878,200878,42.0,Company Invited,2,8.0,Small Business,Male,3,1.0,Deluxe,5.0,Divorced,1.0,0,2,0,2.0,Manager,21272.0,0
+2589,202589,31.0,Self Enquiry,1,12.0,Large Business,Female,3,4.0,Basic,5.0,Married,7.0,0,5,1,2.0,Executive,21882.0,0
+613,200613,,Self Enquiry,2,9.0,Salaried,Male,2,3.0,Basic,3.0,Divorced,1.0,0,2,1,1.0,Executive,,0
+1842,201842,35.0,Self Enquiry,1,15.0,Salaried,Male,3,4.0,Deluxe,4.0,Unmarried,1.0,0,1,0,1.0,Manager,21540.0,0
+806,200806,52.0,Self Enquiry,1,13.0,Salaried,Male,2,3.0,Standard,4.0,Unmarried,1.0,0,3,1,1.0,Senior Manager,25445.0,0
+985,200985,31.0,Self Enquiry,1,28.0,Small Business,Male,3,3.0,Deluxe,3.0,Divorced,2.0,1,5,1,0.0,Manager,21179.0,1
+2660,202660,31.0,Company Invited,3,33.0,Small Business,Fe Male,3,5.0,Deluxe,5.0,Unmarried,7.0,0,2,0,2.0,Manager,25374.0,1
+959,200959,40.0,Self Enquiry,1,,Salaried,Male,3,3.0,Deluxe,3.0,Single,2.0,0,3,1,2.0,Manager,19661.0,0
+1610,201610,,Self Enquiry,1,15.0,Small Business,Female,2,3.0,Basic,5.0,Single,1.0,0,4,1,0.0,Executive,,1
+355,200355,26.0,Self Enquiry,3,6.0,Salaried,Male,2,3.0,Deluxe,3.0,Divorced,2.0,0,5,1,0.0,Manager,20296.0,0
+839,200839,42.0,Self Enquiry,3,10.0,Small Business,Male,2,3.0,Deluxe,5.0,Single,1.0,0,5,1,1.0,Manager,20155.0,0
+153,200153,45.0,Self Enquiry,1,15.0,Salaried,Male,2,3.0,Deluxe,4.0,Married,1.0,0,4,1,0.0,Manager,17348.0,0
+293,200293,26.0,Self Enquiry,3,10.0,Small Business,Male,2,4.0,Deluxe,3.0,Single,2.0,1,2,1,1.0,Manager,20828.0,1
+328,200328,33.0,Company Invited,3,,Small Business,Male,2,4.0,Deluxe,3.0,Single,4.0,0,3,1,1.0,Manager,19682.0,0
+3668,203668,27.0,Self Enquiry,1,24.0,Small Business,Male,4,6.0,Basic,3.0,Married,3.0,0,3,0,3.0,Executive,20983.0,0
+2298,202298,18.0,Company Invited,1,14.0,Small Business,Male,3,3.0,Basic,3.0,Single,2.0,0,5,1,0.0,Executive,16904.0,1
+28,200028,44.0,Self Enquiry,1,13.0,Small Business,Female,2,4.0,Standard,3.0,Divorced,4.0,0,4,1,0.0,Senior Manager,25248.0,0
+1776,201776,32.0,Self Enquiry,3,13.0,Salaried,Male,3,4.0,Deluxe,3.0,Married,2.0,0,3,1,0.0,Manager,20484.0,0
+580,200580,35.0,Self Enquiry,3,14.0,Salaried,Female,3,3.0,Basic,3.0,Divorced,2.0,0,3,0,0.0,Executive,17572.0,0
+2171,202171,53.0,Self Enquiry,3,8.0,Small Business,Male,2,3.0,Super Deluxe,3.0,Married,7.0,0,3,1,0.0,AVP,29852.0,0
+40,200040,35.0,Self Enquiry,1,10.0,Salaried,Male,3,3.0,Basic,3.0,Married,2.0,0,4,0,0.0,Executive,16951.0,0
+3827,203827,37.0,Company Invited,1,16.0,Salaried,Male,4,2.0,Basic,4.0,Married,3.0,0,5,1,1.0,Executive,21488.0,0
+1122,201122,29.0,Self Enquiry,1,,Small Business,Male,2,3.0,Basic,5.0,Single,2.0,1,3,0,1.0,Executive,19723.0,0
+3847,203847,40.0,Self Enquiry,3,22.0,Small Business,Male,4,4.0,Super Deluxe,5.0,Single,2.0,0,1,1,3.0,AVP,32019.0,0
+3679,203679,47.0,Self Enquiry,3,9.0,Salaried,Male,4,4.0,Standard,3.0,Married,6.0,1,3,0,3.0,Senior Manager,29046.0,0
+2176,202176,40.0,Company Invited,3,30.0,Salaried,Fe Male,3,1.0,Super Deluxe,4.0,Unmarried,5.0,1,3,1,0.0,AVP,28194.0,1
+3248,203248,49.0,Company Invited,1,7.0,Small Business,Male,3,2.0,Super Deluxe,3.0,Single,4.0,0,2,0,1.0,AVP,35563.0,0
+3195,203195,51.0,Company Invited,3,7.0,Salaried,Female,4,4.0,Deluxe,3.0,Divorced,2.0,0,2,1,2.0,Manager,25025.0,0
+2945,202945,31.0,Company Invited,1,10.0,Small Business,Female,4,4.0,Basic,3.0,Married,3.0,0,3,1,2.0,Executive,20761.0,0
+1659,201659,51.0,Self Enquiry,1,9.0,Small Business,Female,3,3.0,Super Deluxe,4.0,Single,4.0,0,5,1,1.0,AVP,28734.0,0
+361,200361,40.0,Self Enquiry,1,16.0,Salaried,Female,2,2.0,Basic,3.0,Divorced,4.0,1,3,0,1.0,Executive,17213.0,0
+4772,204772,54.0,Self Enquiry,1,14.0,Small Business,Female,3,4.0,King,3.0,Married,,0,1,1,2.0,VP,37284.0,0
+2767,202767,29.0,Self Enquiry,1,9.0,Small Business,Male,3,6.0,Basic,3.0,Divorced,7.0,1,3,1,1.0,Executive,22142.0,1
+2132,202132,20.0,Self Enquiry,3,8.0,Small Business,Female,2,4.0,Basic,3.0,Single,2.0,0,4,1,0.0,Executive,17044.0,1
+1791,201791,31.0,Self Enquiry,3,13.0,Small Business,Male,3,3.0,Deluxe,3.0,Married,5.0,0,1,0,0.0,Manager,22547.0,0
+3980,203980,37.0,Company Invited,1,18.0,Salaried,Male,4,5.0,Deluxe,4.0,Unmarried,3.0,0,4,1,2.0,Manager,25177.0,0
+1799,201799,47.0,Self Enquiry,1,11.0,Salaried,Male,2,3.0,King,3.0,Married,5.0,0,1,1,0.0,VP,33300.0,0
+2383,202383,45.0,Self Enquiry,3,19.0,Small Business,Male,2,1.0,Super Deluxe,3.0,Single,7.0,1,3,1,0.0,AVP,33824.0,1
+97,200097,,Company Invited,3,10.0,Small Business,Male,2,3.0,Deluxe,3.0,Divorced,2.0,0,2,1,0.0,Manager,,0
+1279,201279,44.0,Company Invited,1,6.0,Small Business,Male,2,3.0,Basic,4.0,Married,2.0,1,3,1,1.0,Executive,17342.0,1
+1881,201881,60.0,Self Enquiry,1,13.0,Salaried,Female,2,3.0,King,5.0,Married,6.0,0,5,1,0.0,VP,34566.0,0
+2040,202040,52.0,Company Invited,1,,Small Business,Male,2,3.0,Basic,3.0,Married,1.0,0,3,1,0.0,Executive,,0
+3840,203840,54.0,Self Enquiry,3,31.0,Salaried,Male,4,4.0,Standard,5.0,Single,8.0,1,3,1,3.0,Senior Manager,29126.0,1
+3615,203615,41.0,Self Enquiry,1,14.0,Salaried,Male,4,4.0,Basic,5.0,Single,5.0,1,3,0,2.0,Executive,20844.0,1
+3603,203603,40.0,Company Invited,1,11.0,Small Business,Fe Male,3,4.0,Deluxe,3.0,Unmarried,2.0,0,3,1,1.0,Manager,23720.0,0
+569,200569,36.0,Company Invited,3,14.0,Salaried,Male,3,4.0,Standard,5.0,Unmarried,2.0,0,2,0,2.0,Senior Manager,22587.0,0
+2085,202085,27.0,Company Invited,1,9.0,Small Business,Male,2,3.0,Basic,3.0,Married,2.0,0,1,0,0.0,Executive,16706.0,0
+2615,202615,20.0,Company Invited,3,7.0,Large Business,Female,4,6.0,Basic,5.0,Single,2.0,0,3,1,2.0,Executive,21003.0,1
+3697,203697,34.0,Company Invited,3,9.0,Small Business,Fe Male,4,4.0,Deluxe,4.0,Unmarried,2.0,0,1,0,1.0,Manager,23825.0,0
+4219,204219,37.0,Company Invited,1,31.0,Salaried,Female,3,4.0,Deluxe,4.0,Married,2.0,0,3,1,2.0,Manager,24352.0,0
+877,200877,46.0,Self Enquiry,1,8.0,Large Business,Male,2,3.0,Deluxe,3.0,Married,3.0,0,2,1,0.0,Manager,22379.0,0
+3376,203376,30.0,Self Enquiry,1,14.0,Large Business,Female,3,4.0,Basic,3.0,Married,5.0,1,4,1,2.0,Executive,22017.0,1
+2576,202576,32.0,Self Enquiry,3,27.0,Salaried,Female,4,6.0,Deluxe,3.0,Divorced,5.0,1,3,1,1.0,Manager,23237.0,1
+2820,202820,52.0,Self Enquiry,3,21.0,Salaried,Female,3,4.0,Deluxe,3.0,Divorced,6.0,0,3,0,2.0,Manager,23614.0,0
+2496,202496,45.0,Self Enquiry,3,7.0,Small Business,Female,4,4.0,Deluxe,5.0,Married,7.0,1,2,0,1.0,Manager,24132.0,0
+631,200631,44.0,Self Enquiry,1,14.0,Salaried,Male,3,1.0,Basic,3.0,Divorced,3.0,1,3,1,2.0,Executive,17818.0,0
+2043,202043,26.0,Self Enquiry,3,14.0,Large Business,Male,2,4.0,Deluxe,5.0,Single,7.0,0,3,0,0.0,Manager,20326.0,1
+1359,201359,34.0,Self Enquiry,3,9.0,Small Business,Female,3,4.0,Deluxe,3.0,Married,4.0,1,3,0,0.0,Manager,23103.0,0
+868,200868,28.0,Self Enquiry,1,25.0,Small Business,Male,3,4.0,Basic,5.0,Divorced,2.0,0,3,1,2.0,Executive,18196.0,0
+1595,201595,26.0,Self Enquiry,1,12.0,Salaried,Female,2,4.0,Basic,4.0,Married,2.0,0,3,1,1.0,Executive,17368.0,0
+31,200031,44.0,Self Enquiry,1,16.0,Salaried,Male,2,3.0,Deluxe,3.0,Divorced,3.0,1,3,1,1.0,Manager,21465.0,0
+4584,204584,28.0,Self Enquiry,1,11.0,Salaried,Female,4,4.0,Basic,3.0,Single,3.0,0,1,0,1.0,Executive,20996.0,0
+1373,201373,38.0,Company Invited,1,14.0,Small Business,Female,2,4.0,Deluxe,4.0,Married,2.0,1,1,1,0.0,Manager,17133.0,0
+3908,203908,27.0,Self Enquiry,3,12.0,Salaried,Female,2,5.0,Basic,3.0,Unmarried,2.0,0,1,0,1.0,Executive,21644.0,0
+3051,203051,50.0,Self Enquiry,3,18.0,Small Business,Female,3,4.0,Standard,3.0,Divorced,3.0,0,4,0,2.0,Senior Manager,26332.0,1
+2260,202260,33.0,Self Enquiry,1,11.0,Salaried,Male,2,4.0,Standard,3.0,Married,5.0,0,3,1,1.0,Senior Manager,22119.0,0
+4805,204805,45.0,Self Enquiry,1,9.0,Salaried,Female,4,2.0,Basic,3.0,Married,3.0,0,4,1,3.0,Executive,20689.0,0
+458,200458,40.0,Company Invited,3,34.0,Salaried,Male,2,5.0,Standard,5.0,Married,4.0,0,5,1,0.0,Senior Manager,25932.0,0
+2728,202728,27.0,Company Invited,1,18.0,Small Business,Male,3,4.0,Deluxe,5.0,Divorced,3.0,1,3,1,2.0,Manager,23419.0,0
+536,200536,60.0,Self Enquiry,3,22.0,Small Business,Male,2,3.0,Deluxe,5.0,Single,1.0,0,4,1,0.0,Manager,20405.0,0
+3609,203609,45.0,Company Invited,2,7.0,Salaried,Male,3,4.0,Deluxe,3.0,Married,6.0,1,5,1,2.0,Manager,24421.0,0
+4685,204685,55.0,Self Enquiry,3,9.0,Salaried,Female,3,5.0,Standard,3.0,Married,8.0,0,5,1,2.0,Senior Manager,29364.0,0
+1733,201733,46.0,Self Enquiry,3,8.0,Large Business,Female,3,5.0,Super Deluxe,4.0,Married,4.0,1,5,1,0.0,AVP,31872.0,0
+1102,201102,36.0,Self Enquiry,3,8.0,Salaried,Male,3,3.0,Basic,3.0,Single,4.0,1,3,0,0.0,Executive,17644.0,0
+3817,203817,39.0,Company Invited,1,15.0,Small Business,Female,3,5.0,Deluxe,4.0,Married,3.0,1,1,1,1.0,Manager,20811.0,0
+3202,203202,60.0,Self Enquiry,3,7.0,Large Business,Male,4,4.0,Standard,3.0,Divorced,5.0,1,2,0,2.0,Senior Manager,30582.0,0
+4486,204486,30.0,Self Enquiry,1,34.0,Small Business,Female,4,4.0,Deluxe,3.0,Married,6.0,0,1,0,2.0,Manager,23013.0,0
+1254,201254,49.0,Self Enquiry,3,,Small Business,Female,3,3.0,Deluxe,3.0,Single,4.0,0,4,0,1.0,Manager,19507.0,0
+2577,202577,42.0,Self Enquiry,3,16.0,Salaried,Male,4,4.0,Standard,3.0,Married,5.0,1,2,0,2.0,Senior Manager,26867.0,0
+104,200104,37.0,Company Invited,1,8.0,Salaried,Male,3,4.0,Deluxe,3.0,Married,6.0,0,2,0,1.0,Manager,20163.0,0
+938,200938,58.0,Self Enquiry,1,29.0,Salaried,Male,2,3.0,Basic,3.0,Married,2.0,0,3,1,1.0,Executive,17372.0,0
+321,200321,31.0,Self Enquiry,3,13.0,Small Business,Male,3,3.0,Deluxe,3.0,Married,5.0,0,2,0,0.0,Manager,22547.0,0
+4638,204638,25.0,Self Enquiry,1,24.0,Small Business,Female,3,5.0,Deluxe,3.0,Married,3.0,0,3,0,1.0,Manager,23055.0,0
+299,200299,51.0,Self Enquiry,1,8.0,Small Business,Male,2,5.0,Deluxe,4.0,Married,6.0,0,2,0,0.0,Manager,20482.0,0
+937,200937,39.0,Self Enquiry,1,19.0,Small Business,Female,3,4.0,Super Deluxe,4.0,Married,7.0,1,3,1,2.0,AVP,32123.0,0
+373,200373,,Self Enquiry,1,6.0,Small Business,Male,2,3.0,Basic,4.0,Married,2.0,0,3,0,0.0,Executive,,0
+3256,203256,44.0,Company Invited,1,34.0,Salaried,Female,3,4.0,Standard,5.0,Divorced,2.0,0,4,0,1.0,Senior Manager,29498.0,0
+4446,204446,48.0,Self Enquiry,3,21.0,Small Business,Male,3,4.0,Deluxe,5.0,Unmarried,4.0,0,1,1,2.0,Manager,23638.0,0
+185,200185,33.0,Self Enquiry,1,20.0,Small Business,Female,3,3.0,Basic,4.0,Divorced,2.0,0,5,0,0.0,Executive,17756.0,0
+1227,201227,,Self Enquiry,1,8.0,Salaried,Male,3,3.0,Basic,3.0,Married,2.0,0,5,0,2.0,Executive,18477.0,0
+3146,203146,31.0,Self Enquiry,3,15.0,Salaried,Male,4,4.0,Standard,3.0,Married,7.0,0,3,1,1.0,Senior Manager,25942.0,0
+900,200900,,Company Invited,1,9.0,Large Business,Male,2,3.0,Basic,4.0,Divorced,2.0,0,3,1,1.0,Executive,18692.0,0
+3737,203737,44.0,Company Invited,1,16.0,Salaried,Male,3,4.0,Basic,3.0,Single,6.0,0,3,0,2.0,Executive,21116.0,0
+291,200291,36.0,Self Enquiry,1,,Large Business,Male,1,3.0,Deluxe,4.0,Single,5.0,0,2,1,0.0,Manager,19485.0,0
+1495,201495,53.0,Self Enquiry,1,11.0,Salaried,Female,2,3.0,King,3.0,Married,5.0,0,4,1,0.0,VP,34094.0,0
+3151,203151,48.0,Company Invited,1,23.0,Small Business,Male,4,2.0,Deluxe,3.0,Married,3.0,1,2,0,1.0,Manager,23745.0,0
+2835,202835,41.0,Self Enquiry,1,9.0,Small Business,Female,4,5.0,Deluxe,3.0,Divorced,8.0,0,5,1,1.0,Manager,22126.0,0
+234,200234,33.0,Self Enquiry,1,20.0,Small Business,Male,2,3.0,Basic,3.0,Divorced,6.0,1,2,0,1.0,Executive,17436.0,1
+1060,201060,24.0,Company Invited,1,15.0,Small Business,Male,2,3.0,Basic,5.0,Single,3.0,1,3,0,1.0,Executive,18172.0,1
+2136,202136,,Self Enquiry,1,9.0,Salaried,Female,2,3.0,Deluxe,3.0,Married,1.0,1,5,1,1.0,Manager,,1
+1523,201523,35.0,Company Invited,1,17.0,Small Business,Male,3,4.0,Standard,5.0,Married,3.0,1,5,1,2.0,Senior Manager,24884.0,0
+1116,201116,55.0,Self Enquiry,3,32.0,Small Business,Male,2,4.0,King,3.0,Married,2.0,0,3,1,1.0,VP,34586.0,0
+1020,201020,,Self Enquiry,1,6.0,Large Business,Male,3,3.0,Basic,3.0,Divorced,1.0,0,3,1,0.0,Executive,18420.0,0
+1009,201009,58.0,Self Enquiry,1,6.0,Small Business,Female,3,3.0,King,5.0,Divorced,4.0,1,1,1,,VP,34701.0,0
+1824,201824,30.0,Company Invited,3,,Large Business,Female,2,3.0,Deluxe,3.0,Married,1.0,1,3,1,1.0,Manager,19736.0,0
+4163,204163,46.0,Company Invited,1,14.0,Salaried,Male,4,2.0,Deluxe,3.0,Married,6.0,0,1,1,1.0,Manager,25112.0,0
+4250,204250,30.0,Self Enquiry,1,15.0,Salaried,Male,4,6.0,Basic,5.0,Married,3.0,1,3,0,2.0,Executive,20797.0,1
+1333,201333,46.0,Self Enquiry,3,16.0,Salaried,Female,3,3.0,Standard,4.0,Married,6.0,0,1,0,2.0,Senior Manager,22314.0,1
+2052,202052,40.0,Company Invited,1,,Small Business,Female,2,1.0,Deluxe,4.0,Married,2.0,0,3,0,0.0,Manager,,0
+1080,201080,46.0,Self Enquiry,3,9.0,Salaried,Female,2,3.0,Super Deluxe,4.0,Divorced,1.0,0,4,1,0.0,AVP,31606.0,0
+1433,201433,25.0,Self Enquiry,3,14.0,Salaried,Female,2,3.0,Deluxe,3.0,Married,1.0,1,1,1,1.0,Manager,19907.0,0
+3984,203984,60.0,Company Invited,3,7.0,Salaried,Fe Male,3,5.0,Deluxe,3.0,Unmarried,2.0,0,5,1,1.0,Manager,24151.0,0
+4116,204116,35.0,Company Invited,1,17.0,Small Business,Male,3,4.0,Basic,3.0,Married,3.0,1,3,1,2.0,Executive,22493.0,0
+284,200284,26.0,Company Invited,1,,Small Business,Male,2,3.0,Deluxe,5.0,Divorced,2.0,1,3,1,1.0,Manager,19741.0,0
+3277,203277,28.0,Self Enquiry,1,13.0,Salaried,Male,3,5.0,Basic,3.0,Divorced,3.0,0,2,1,2.0,Executive,21217.0,0
+4182,204182,46.0,Self Enquiry,1,27.0,Small Business,Male,4,4.0,Super Deluxe,3.0,Married,2.0,1,3,1,2.0,AVP,32174.0,0
+2473,202473,47.0,Self Enquiry,3,9.0,Small Business,Female,3,4.0,King,5.0,Single,,0,2,0,2.0,VP,37625.0,0
+174,200174,45.0,Self Enquiry,3,10.0,Salaried,Female,1,,Deluxe,5.0,Married,5.0,1,4,0,0.0,Manager,20006.0,0
+2374,202374,48.0,Self Enquiry,1,21.0,Small Business,Female,3,3.0,Standard,3.0,Married,2.0,0,3,0,0.0,Senior Manager,33265.0,1
+1573,201573,34.0,Self Enquiry,1,,Salaried,Female,2,3.0,Deluxe,3.0,Single,2.0,0,3,0,0.0,Manager,19809.0,0
+3995,203995,36.0,Self Enquiry,1,7.0,Small Business,Male,2,5.0,Basic,3.0,Unmarried,3.0,0,4,1,1.0,Executive,21537.0,0
+946,200946,40.0,Self Enquiry,3,31.0,Small Business,Male,2,4.0,Standard,4.0,Unmarried,3.0,1,5,0,1.0,Senior Manager,24094.0,1
+1762,201762,31.0,Company Invited,3,11.0,Small Business,Female,2,3.0,Basic,4.0,Married,2.0,0,3,0,0.0,Executive,17789.0,0
+4344,204344,36.0,Self Enquiry,1,29.0,Salaried,Male,3,6.0,Basic,3.0,Unmarried,2.0,0,4,1,2.0,Executive,22908.0,0
+548,200548,43.0,Company Invited,3,21.0,Salaried,Male,2,4.0,Deluxe,3.0,Divorced,4.0,0,5,0,1.0,Manager,21804.0,0
+4203,204203,29.0,Self Enquiry,1,15.0,Salaried,Female,4,4.0,Basic,3.0,Unmarried,3.0,0,4,1,2.0,Executive,21988.0,0
+4874,204874,42.0,Self Enquiry,1,15.0,Small Business,Female,4,4.0,Basic,5.0,Married,3.0,1,3,0,3.0,Executive,22781.0,1
+965,200965,,Self Enquiry,1,25.0,Small Business,Male,3,3.0,Basic,3.0,Divorced,4.0,0,5,1,2.0,Executive,18669.0,0
+84,200084,34.0,Self Enquiry,1,,Small Business,Male,3,3.0,Deluxe,4.0,Divorced,2.0,0,5,0,0.0,Manager,,0
+2430,202430,,Self Enquiry,1,14.0,Small Business,Female,3,3.0,Basic,5.0,Married,2.0,1,3,0,2.0,Executive,,1
+2407,202407,39.0,Self Enquiry,1,8.0,Salaried,Female,3,3.0,Basic,5.0,Married,2.0,1,1,1,0.0,Executive,32123.0,1
+4299,204299,31.0,Company Invited,1,11.0,Large Business,Male,3,4.0,Basic,3.0,Single,2.0,1,4,1,1.0,Executive,20963.0,1
+65,200065,55.0,Self Enquiry,1,14.0,Small Business,Female,2,3.0,Super Deluxe,3.0,Married,3.0,1,3,0,1.0,AVP,29756.0,0
+3191,203191,39.0,Self Enquiry,3,10.0,Salaried,Male,3,4.0,Deluxe,3.0,Unmarried,2.0,1,3,1,2.0,Manager,25539.0,0
+4357,204357,23.0,Company Invited,1,11.0,Large Business,Male,4,5.0,Basic,3.0,Unmarried,7.0,0,5,0,1.0,Executive,22572.0,1
+244,200244,45.0,Self Enquiry,1,6.0,Salaried,Male,3,2.0,King,3.0,Divorced,1.0,0,4,1,2.0,VP,34202.0,0
+574,200574,34.0,Self Enquiry,1,6.0,Salaried,Female,3,1.0,Basic,3.0,Single,3.0,0,2,0,0.0,Executive,18280.0,0
+1847,201847,36.0,Self Enquiry,1,8.0,Salaried,Female,3,3.0,Basic,3.0,Married,5.0,0,5,1,0.0,Executive,17543.0,0
+834,200834,34.0,Self Enquiry,3,15.0,Salaried,Female,3,3.0,Deluxe,3.0,Divorced,2.0,0,2,1,2.0,Manager,20714.0,0
+3705,203705,39.0,Self Enquiry,1,25.0,Small Business,Male,3,6.0,Deluxe,3.0,Married,5.0,1,5,0,2.0,Manager,24489.0,0
+1379,201379,27.0,Company Invited,2,28.0,Salaried,Female,2,4.0,Basic,4.0,Married,2.0,0,1,1,0.0,Executive,17863.0,1
+3093,203093,54.0,Self Enquiry,1,30.0,Salaried,Female,4,4.0,Super Deluxe,3.0,Single,8.0,0,5,1,2.0,AVP,32953.0,0
+1369,201369,28.0,Self Enquiry,3,19.0,Small Business,Fe Male,2,3.0,Deluxe,3.0,Unmarried,4.0,1,5,1,1.0,Manager,24854.0,1
+130,200130,43.0,Company Invited,1,,Small Business,Female,3,2.0,Basic,3.0,Single,5.0,0,3,0,2.0,Executive,19739.0,0
+827,200827,28.0,Company Invited,1,12.0,Salaried,Male,2,4.0,Basic,3.0,Married,2.0,1,4,1,0.0,Executive,17703.0,0
+1078,201078,44.0,Self Enquiry,1,34.0,Salaried,Male,2,3.0,Super Deluxe,5.0,Divorced,4.0,0,1,1,0.0,AVP,31328.0,0
+925,200925,42.0,Self Enquiry,1,13.0,Small Business,Female,3,1.0,Deluxe,4.0,Divorced,7.0,1,1,0,0.0,Manager,17372.0,0
+1365,201365,29.0,Company Invited,3,30.0,Large Business,Male,2,1.0,Basic,5.0,Single,2.0,0,3,1,1.0,Executive,16091.0,1
+1648,201648,46.0,Self Enquiry,3,6.0,Small Business,Female,3,3.0,Standard,5.0,Married,2.0,0,1,1,2.0,Senior Manager,25453.0,0
+4863,204863,40.0,Self Enquiry,3,14.0,Salaried,Male,4,4.0,Basic,3.0,Married,3.0,1,1,1,3.0,Executive,23212.0,1
+262,200262,32.0,Self Enquiry,1,8.0,Large Business,Male,2,4.0,Deluxe,5.0,Single,5.0,0,4,0,1.0,Manager,17176.0,0
+768,200768,40.0,Self Enquiry,3,32.0,Small Business,Male,3,3.0,Deluxe,5.0,Divorced,2.0,0,2,1,1.0,Manager,23396.0,0
+4697,204697,42.0,Self Enquiry,1,14.0,Large Business,Female,3,2.0,Basic,3.0,Married,3.0,0,3,0,1.0,Executive,22054.0,0
+3927,203927,35.0,Self Enquiry,1,26.0,Small Business,Male,4,4.0,Basic,3.0,Married,2.0,0,3,0,1.0,Executive,21339.0,0
+189,200189,51.0,Self Enquiry,1,9.0,Small Business,Female,3,3.0,Super Deluxe,4.0,Single,4.0,0,5,0,1.0,AVP,28734.0,0
+2471,202471,43.0,Self Enquiry,3,15.0,Small Business,Male,3,4.0,Deluxe,4.0,Divorced,2.0,0,3,0,2.0,Manager,25503.0,0
+914,200914,55.0,Company Invited,1,14.0,Small Business,Male,2,4.0,Super Deluxe,4.0,Married,2.0,1,3,1,1.0,AVP,28577.0,0
+3126,203126,33.0,Company Invited,1,7.0,Salaried,Female,4,5.0,Basic,4.0,Divorced,8.0,0,3,1,1.0,Executive,21010.0,0
+2081,202081,35.0,Self Enquiry,1,13.0,Salaried,Male,2,3.0,Standard,3.0,Unmarried,4.0,0,3,0,1.0,Senior Manager,25221.0,0
+1043,201043,53.0,Self Enquiry,1,8.0,Small Business,Male,2,1.0,Super Deluxe,4.0,Single,5.0,0,1,1,0.0,AVP,31598.0,0
+397,200397,25.0,Self Enquiry,3,,Salaried,Female,2,4.0,Deluxe,3.0,Single,2.0,1,2,0,1.0,Manager,19487.0,0
+4709,204709,38.0,Self Enquiry,3,17.0,Salaried,Female,3,5.0,Deluxe,3.0,Married,4.0,1,4,1,2.0,Manager,25372.0,0
+2843,202843,32.0,Self Enquiry,1,7.0,Salaried,Male,4,5.0,Basic,5.0,Divorced,3.0,0,4,0,1.0,Executive,20896.0,0
+4583,204583,40.0,Self Enquiry,1,13.0,Small Business,Male,4,4.0,Basic,5.0,Married,2.0,1,1,1,2.0,Executive,21082.0,1
+765,200765,38.0,Company Invited,1,9.0,Salaried,Male,2,3.0,Basic,3.0,Divorced,4.0,0,3,1,1.0,Executive,17821.0,0
+719,200719,,Self Enquiry,3,10.0,Salaried,Female,2,3.0,Deluxe,3.0,Single,2.0,1,3,1,1.0,Manager,,0
+2785,202785,39.0,Self Enquiry,1,22.0,Salaried,Male,4,5.0,Standard,3.0,Married,2.0,1,5,1,2.0,Senior Manager,30188.0,0
+3816,203816,40.0,Self Enquiry,1,16.0,Small Business,Male,3,4.0,Deluxe,5.0,Married,3.0,0,4,1,1.0,Manager,23829.0,0
+4138,204138,32.0,Company Invited,1,7.0,Small Business,Male,3,6.0,Deluxe,3.0,Married,2.0,0,3,0,1.0,Manager,23023.0,0
+2685,202685,33.0,Company Invited,3,33.0,Small Business,Male,4,4.0,Deluxe,3.0,Divorced,2.0,0,4,1,3.0,Manager,23143.0,0
+2649,202649,30.0,Self Enquiry,3,34.0,Small Business,Female,3,4.0,Standard,3.0,Divorced,3.0,0,3,1,2.0,Senior Manager,26317.0,1
+352,200352,48.0,Self Enquiry,3,35.0,Small Business,Female,3,3.0,Standard,3.0,Divorced,4.0,0,4,0,0.0,Senior Manager,27504.0,0
+586,200586,24.0,Company Invited,1,15.0,Salaried,Male,2,4.0,Basic,4.0,Married,2.0,0,5,1,0.0,Executive,17694.0,0
+3710,203710,42.0,Self Enquiry,1,16.0,Salaried,Male,4,4.0,Basic,5.0,Married,3.0,0,5,1,2.0,Executive,20967.0,0
+17,200017,22.0,Company Invited,1,22.0,Small Business,Male,3,2.0,Basic,3.0,Married,2.0,1,3,0,0.0,Executive,17935.0,0
+413,200413,42.0,Company Invited,1,,Large Business,Female,2,4.0,Deluxe,3.0,Divorced,1.0,0,3,0,0.0,Manager,19523.0,0
+4275,204275,41.0,Self Enquiry,1,17.0,Salaried,Female,3,2.0,Basic,3.0,Married,5.0,1,3,0,2.0,Executive,20891.0,0
+2998,202998,28.0,Self Enquiry,1,14.0,Small Business,Fe Male,3,5.0,Deluxe,5.0,Unmarried,2.0,0,3,1,1.0,Manager,25489.0,0
+4381,204381,38.0,Company Invited,3,16.0,Small Business,Male,4,4.0,Standard,4.0,Married,3.0,0,1,1,3.0,Senior Manager,27512.0,0
+3839,203839,32.0,Company Invited,3,33.0,Small Business,Male,4,4.0,Deluxe,3.0,Married,3.0,1,3,0,2.0,Manager,24295.0,1
+309,200309,31.0,Self Enquiry,1,,Large Business,Male,2,3.0,Basic,3.0,Divorced,1.0,1,4,0,1.0,Executive,19821.0,0
+3606,203606,36.0,Self Enquiry,3,17.0,Small Business,Male,3,5.0,Standard,5.0,Married,2.0,0,5,1,2.0,Senior Manager,28984.0,1
+717,200717,27.0,Self Enquiry,1,22.0,Large Business,Female,2,3.0,Basic,4.0,Divorced,1.0,0,2,1,0.0,Executive,17811.0,0
+1522,201522,44.0,Self Enquiry,3,6.0,Small Business,Female,3,3.0,Deluxe,5.0,Married,6.0,1,1,1,1.0,Manager,20454.0,0
+1251,201251,30.0,Self Enquiry,3,21.0,Small Business,Male,3,4.0,Standard,5.0,Married,3.0,0,1,0,2.0,Senior Manager,22140.0,0
+692,200692,32.0,Self Enquiry,1,9.0,Small Business,Female,3,3.0,Deluxe,5.0,Divorced,2.0,0,2,1,1.0,Manager,21725.0,0
+54,200054,,Self Enquiry,3,29.0,Small Business,Female,2,4.0,Deluxe,3.0,Divorced,1.0,1,2,1,0.0,Manager,,0
+3442,203442,27.0,Self Enquiry,1,9.0,Small Business,Male,3,5.0,Basic,3.0,Unmarried,2.0,0,3,0,1.0,Executive,22582.0,0
+4410,204410,22.0,Self Enquiry,3,29.0,Large Business,Male,3,4.0,Basic,3.0,Unmarried,3.0,0,1,0,1.0,Executive,22125.0,0
+3926,203926,32.0,Self Enquiry,1,33.0,Salaried,Male,3,4.0,Basic,3.0,Married,3.0,0,3,1,2.0,Executive,21589.0,0
+2321,202321,56.0,Self Enquiry,1,10.0,Large Business,Female,3,3.0,King,5.0,Married,5.0,0,4,1,,VP,34943.0,0
+2318,202318,35.0,Company Invited,1,10.0,Salaried,Male,2,4.0,Basic,3.0,Married,2.0,0,1,1,1.0,Executive,17376.0,0
+1366,201366,39.0,Company Invited,3,27.0,Salaried,Female,2,5.0,Deluxe,3.0,Married,7.0,0,5,0,0.0,Manager,20736.0,0
+1038,201038,48.0,Self Enquiry,3,13.0,Small Business,Male,3,3.0,Deluxe,5.0,Married,5.0,0,4,1,1.0,Manager,20486.0,0
+2674,202674,53.0,Self Enquiry,1,9.0,Salaried,Female,3,5.0,Basic,3.0,Unmarried,2.0,0,3,0,1.0,Executive,21890.0,0
+2121,202121,47.0,Self Enquiry,3,,Small Business,Female,2,3.0,Deluxe,3.0,Married,1.0,1,1,1,1.0,Manager,19537.0,0
+3042,203042,29.0,Self Enquiry,1,9.0,Small Business,Male,3,4.0,Basic,3.0,Unmarried,8.0,0,3,0,1.0,Executive,23060.0,1
+3812,203812,35.0,Company Invited,1,29.0,Salaried,Male,3,5.0,Deluxe,3.0,Married,3.0,1,1,1,1.0,Manager,24425.0,0
+4796,204796,37.0,Self Enquiry,1,8.0,Large Business,Female,4,6.0,Standard,5.0,Married,4.0,1,1,1,1.0,Senior Manager,28930.0,0
+4647,204647,27.0,Self Enquiry,1,9.0,Small Business,Male,3,2.0,Deluxe,3.0,Married,3.0,0,3,1,2.0,Manager,24150.0,0
+706,200706,40.0,Company Invited,3,30.0,Salaried,Fe Male,3,1.0,Super Deluxe,4.0,Unmarried,5.0,1,3,1,2.0,AVP,28194.0,1
+359,200359,36.0,Company Invited,3,9.0,Small Business,Male,2,4.0,Standard,3.0,Divorced,5.0,0,2,0,1.0,Senior Manager,24699.0,0
+2382,202382,26.0,Self Enquiry,1,13.0,Small Business,Female,2,4.0,Standard,5.0,Married,1.0,1,4,1,1.0,Senior Manager,17875.0,1
+2151,202151,38.0,Self Enquiry,1,6.0,Large Business,Female,3,3.0,Standard,5.0,Married,2.0,0,4,1,1.0,Senior Manager,28582.0,0
+1978,201978,35.0,Self Enquiry,1,12.0,Salaried,Male,2,5.0,Deluxe,3.0,Unmarried,2.0,0,5,0,1.0,Manager,21646.0,0
+1983,201983,20.0,Self Enquiry,1,16.0,Small Business,Male,2,3.0,Basic,3.0,Single,2.0,1,5,1,1.0,Executive,16009.0,1
+4262,204262,43.0,Self Enquiry,1,30.0,Salaried,Female,3,4.0,Super Deluxe,3.0,Single,4.0,0,3,0,,AVP,34670.0,0
+2977,202977,41.0,Company Invited,3,12.0,Salaried,Male,3,5.0,Standard,5.0,Divorced,7.0,1,5,0,2.0,Senior Manager,29153.0,0
+2800,202800,43.0,Self Enquiry,1,9.0,Salaried,Male,4,5.0,Deluxe,3.0,Unmarried,5.0,0,2,0,2.0,Manager,25459.0,0
+3057,203057,35.0,Self Enquiry,2,10.0,Salaried,Male,3,4.0,Basic,3.0,Divorced,2.0,0,2,1,2.0,Executive,22415.0,0
+2062,202062,47.0,Self Enquiry,1,8.0,Salaried,Female,2,3.0,Super Deluxe,3.0,Married,2.0,1,4,1,0.0,AVP,31752.0,0
+3664,203664,37.0,Self Enquiry,3,9.0,Salaried,Female,3,4.0,Deluxe,3.0,Unmarried,5.0,0,4,1,2.0,Manager,23180.0,0
+3758,203758,46.0,Company Invited,3,9.0,Salaried,Female,4,4.0,Deluxe,3.0,Married,6.0,0,1,1,3.0,Manager,23832.0,0
+4292,204292,35.0,Company Invited,3,26.0,Small Business,Male,4,2.0,Deluxe,3.0,Unmarried,2.0,1,1,0,1.0,Manager,23982.0,1
+918,200918,51.0,Company Invited,3,15.0,Salaried,Male,2,3.0,King,4.0,Married,5.0,1,4,1,,VP,34847.0,0
+2881,202881,31.0,Self Enquiry,3,14.0,Small Business,Male,3,4.0,Basic,4.0,Unmarried,2.0,0,2,1,1.0,Executive,21661.0,0
+1017,201017,27.0,Self Enquiry,1,17.0,Salaried,Male,3,3.0,Basic,5.0,Divorced,1.0,0,5,1,2.0,Executive,17099.0,0
+356,200356,42.0,Self Enquiry,1,8.0,Salaried,Male,3,4.0,Deluxe,3.0,Unmarried,4.0,0,2,0,1.0,Manager,21781.0,0
+4054,204054,33.0,Self Enquiry,1,16.0,Small Business,Female,3,4.0,Basic,5.0,Unmarried,2.0,0,4,1,1.0,Executive,22878.0,1
+1235,201235,46.0,Self Enquiry,3,8.0,Salaried,Male,3,3.0,Standard,3.0,Married,5.0,1,3,0,2.0,Senior Manager,25368.0,0
+4472,204472,33.0,Company Invited,1,31.0,Salaried,Male,4,4.0,Deluxe,3.0,Married,3.0,0,4,1,3.0,Manager,23987.0,0
+4407,204407,45.0,Self Enquiry,2,7.0,Salaried,Fe Male,3,5.0,Deluxe,3.0,Unmarried,6.0,0,5,1,2.0,Manager,24663.0,0
+3728,203728,40.0,Self Enquiry,1,17.0,Small Business,Male,4,4.0,Standard,3.0,Single,2.0,0,3,1,1.0,Senior Manager,32142.0,0
+4064,204064,41.0,Company Invited,1,33.0,Small Business,Female,3,4.0,Deluxe,4.0,Married,3.0,0,1,0,2.0,Manager,24283.0,0
+1985,201985,35.0,Company Invited,1,9.0,Salaried,Male,2,4.0,Basic,3.0,Married,2.0,0,1,1,1.0,Executive,16281.0,0
+1276,201276,,Self Enquiry,3,15.0,Small Business,Male,2,4.0,Deluxe,4.0,Married,2.0,0,4,0,1.0,Manager,,0
+3975,203975,39.0,Company Invited,1,36.0,Salaried,Female,3,4.0,Deluxe,3.0,Single,3.0,0,3,1,1.0,Manager,21084.0,0
+2226,202226,,Company Invited,1,35.0,Small Business,Female,3,3.0,Basic,3.0,Single,1.0,0,3,1,2.0,Executive,,0
+1699,201699,29.0,Self Enquiry,1,24.0,Small Business,Male,2,4.0,Basic,3.0,Single,2.0,1,3,0,0.0,Executive,17389.0,1
+4864,204864,32.0,Self Enquiry,2,29.0,Salaried,Male,3,6.0,Basic,3.0,Married,3.0,0,1,0,2.0,Executive,28530.0,1
+1960,201960,38.0,Self Enquiry,1,6.0,Salaried,Female,2,3.0,Basic,5.0,Single,4.0,0,1,0,1.0,Executive,17619.0,0
+71,200071,29.0,Self Enquiry,1,8.0,Salaried,Male,3,3.0,Basic,4.0,Divorced,1.0,0,4,0,0.0,Executive,17703.0,0
+2864,202864,30.0,Self Enquiry,1,10.0,Small Business,Male,4,5.0,Standard,3.0,Divorced,3.0,0,2,1,3.0,Senior Manager,30613.0,0
+2575,202575,51.0,Company Invited,3,19.0,Small Business,Fe Male,4,4.0,Standard,3.0,Unmarried,6.0,0,5,0,1.0,Senior Manager,27886.0,0
+2038,202038,55.0,Self Enquiry,1,8.0,Small Business,Male,3,3.0,King,5.0,Married,6.0,1,1,1,,VP,34859.0,1
+614,200614,26.0,Company Invited,1,11.0,Small Business,Female,2,4.0,Basic,3.0,Divorced,2.0,1,2,0,1.0,Executive,17366.0,1
+1789,201789,32.0,Self Enquiry,3,14.0,Large Business,Female,3,4.0,Deluxe,4.0,Married,2.0,1,1,1,2.0,Manager,20228.0,0
+3708,203708,56.0,Self Enquiry,1,9.0,Small Business,Male,3,5.0,King,5.0,Married,,0,5,0,2.0,VP,37716.0,0
+3100,203100,33.0,Self Enquiry,1,32.0,Salaried,Male,3,4.0,Basic,3.0,Unmarried,3.0,1,5,1,1.0,Executive,21473.0,1
+445,200445,55.0,Self Enquiry,3,24.0,Salaried,Female,2,3.0,Super Deluxe,4.0,Single,4.0,0,2,0,1.0,AVP,31835.0,0
+4420,204420,38.0,Self Enquiry,1,10.0,Salaried,Male,3,4.0,Standard,3.0,Married,3.0,0,1,1,1.0,Senior Manager,28112.0,0
+836,200836,29.0,Self Enquiry,3,29.0,Salaried,Female,2,4.0,Standard,5.0,Divorced,2.0,0,3,0,0.0,Senior Manager,22336.0,1
+616,200616,51.0,Self Enquiry,3,32.0,Small Business,Female,3,3.0,Super Deluxe,3.0,Divorced,3.0,0,3,0,1.0,AVP,31307.0,0
+4018,204018,38.0,Company Invited,1,9.0,Salaried,Male,4,5.0,Deluxe,3.0,Married,7.0,0,1,1,3.0,Manager,23841.0,0
+662,200662,20.0,Self Enquiry,3,8.0,Small Business,Female,2,4.0,Basic,3.0,Single,2.0,0,4,0,1.0,Executive,17044.0,1
+2613,202613,33.0,Self Enquiry,1,13.0,Salaried,Male,3,4.0,Basic,3.0,Unmarried,5.0,0,2,0,2.0,Executive,21716.0,0
+1715,201715,31.0,Company Invited,1,9.0,Small Business,Male,3,3.0,Standard,3.0,Married,1.0,0,4,1,0.0,Senior Manager,28675.0,0
+1878,201878,52.0,Self Enquiry,1,10.0,Salaried,Female,1,3.0,Super Deluxe,3.0,Married,3.0,0,5,1,0.0,AVP,31555.0,0
+1775,201775,36.0,Company Invited,1,30.0,Salaried,Female,2,3.0,Deluxe,4.0,Married,1.0,0,3,1,1.0,Manager,20674.0,0
+3801,203801,43.0,Self Enquiry,1,13.0,Small Business,Male,3,4.0,Standard,5.0,Married,2.0,0,3,1,1.0,Senior Manager,32026.0,0
+2414,202414,28.0,Self Enquiry,1,13.0,Salaried,Male,3,3.0,Basic,5.0,Unmarried,4.0,1,3,0,2.0,Executive,21674.0,1
+465,200465,46.0,Company Invited,1,24.0,Small Business,Female,2,3.0,Standard,3.0,Divorced,6.0,0,3,1,0.0,Senior Manager,25527.0,0
+3339,203339,32.0,Self Enquiry,1,18.0,Small Business,Male,4,4.0,Deluxe,5.0,Divorced,3.0,1,2,0,3.0,Manager,25511.0,0
+1641,201641,19.0,Company Invited,3,6.0,Large Business,Female,3,5.0,Basic,5.0,Single,1.0,0,3,1,0.0,Executive,17325.0,1
+4431,204431,26.0,Self Enquiry,3,15.0,Salaried,Male,3,2.0,Deluxe,4.0,Married,2.0,0,4,1,1.0,Manager,23529.0,0
+3643,203643,37.0,Self Enquiry,1,33.0,Salaried,Male,4,4.0,Deluxe,3.0,Married,8.0,0,3,1,1.0,Manager,24025.0,0
+303,200303,31.0,Self Enquiry,3,13.0,Large Business,Male,3,2.0,Deluxe,3.0,Divorced,5.0,0,2,1,0.0,Manager,21929.0,0
+1180,201180,36.0,Self Enquiry,1,13.0,Salaried,Male,3,3.0,Basic,4.0,Single,3.0,0,1,0,2.0,Executive,17013.0,0
+3829,203829,35.0,Self Enquiry,3,20.0,Small Business,Male,3,4.0,Standard,3.0,Married,3.0,0,1,1,2.0,Senior Manager,27306.0,0
+1759,201759,28.0,Self Enquiry,1,14.0,Salaried,Female,3,3.0,Basic,3.0,Single,2.0,0,4,1,1.0,Executive,18310.0,0
+541,200541,36.0,Company Invited,1,14.0,Salaried,Female,3,2.0,Standard,5.0,Divorced,1.0,0,3,0,0.0,Senior Manager,26713.0,0
+4189,204189,38.0,Company Invited,1,7.0,Small Business,Female,4,4.0,Standard,3.0,Married,4.0,1,3,0,1.0,Senior Manager,32281.0,0
+1068,201068,28.0,Company Invited,1,8.0,Small Business,Male,2,4.0,Basic,5.0,Single,1.0,0,4,0,0.0,Executive,17561.0,1
+512,200512,27.0,Self Enquiry,1,9.0,Small Business,Male,2,4.0,Basic,3.0,Single,1.0,0,2,0,0.0,Executive,17045.0,0
+3937,203937,22.0,Self Enquiry,1,22.0,Salaried,Male,4,,Basic,3.0,Single,3.0,0,5,1,2.0,Executive,19910.0,0
+4396,204396,32.0,Self Enquiry,3,20.0,Small Business,Male,3,4.0,Deluxe,5.0,Married,4.0,0,1,0,2.0,Manager,22911.0,1
+2181,202181,29.0,Self Enquiry,1,16.0,Salaried,Female,3,4.0,Basic,5.0,Single,7.0,1,5,1,0.0,Executive,17404.0,1
+3207,203207,35.0,Self Enquiry,3,17.0,Salaried,Female,3,4.0,Basic,3.0,Divorced,3.0,1,2,0,2.0,Executive,20898.0,0
+53,200053,35.0,Company Invited,1,17.0,Small Business,Male,3,4.0,Standard,5.0,Divorced,3.0,1,5,1,1.0,Senior Manager,24884.0,0
+1115,201115,34.0,Self Enquiry,1,13.0,Small Business,Male,2,3.0,Basic,3.0,Single,2.0,0,1,0,1.0,Executive,17972.0,0
+695,200695,37.0,Self Enquiry,3,6.0,Salaried,Male,2,4.0,Standard,3.0,Divorced,6.0,0,2,1,1.0,Senior Manager,25609.0,1
+2410,202410,,Self Enquiry,1,30.0,Small Business,Male,2,3.0,Basic,4.0,Married,2.0,1,1,0,0.0,Executive,,1
+999,200999,42.0,Self Enquiry,2,16.0,Salaried,Female,2,3.0,Super Deluxe,5.0,Divorced,1.0,0,3,0,1.0,AVP,31799.0,0
+4813,204813,50.0,Self Enquiry,1,11.0,Small Business,Male,3,5.0,King,3.0,Married,,0,3,0,2.0,VP,37389.0,0
+1917,201917,35.0,Self Enquiry,3,,Small Business,Male,2,3.0,Deluxe,3.0,Married,1.0,0,3,0,1.0,Manager,19717.0,0
+4574,204574,59.0,Company Invited,1,9.0,Salaried,Male,3,5.0,Basic,3.0,Married,2.0,1,1,1,1.0,Executive,21058.0,1
+3989,203989,32.0,Self Enquiry,1,15.0,Salaried,Female,4,4.0,Deluxe,3.0,Unmarried,3.0,0,5,1,3.0,Manager,23102.0,0
+3069,203069,46.0,Self Enquiry,3,16.0,Small Business,Male,4,4.0,Standard,5.0,Married,6.0,1,2,1,1.0,Senior Manager,29439.0,0
+2469,202469,54.0,Self Enquiry,1,12.0,Salaried,Female,3,4.0,King,3.0,Married,,0,5,0,2.0,VP,37772.0,0
+38,200038,36.0,Self Enquiry,1,11.0,Salaried,Female,2,4.0,Basic,,Divorced,1.0,1,2,1,0.0,Executive,95000.0,0
+997,200997,27.0,Self Enquiry,1,23.0,Salaried,Female,2,3.0,Basic,3.0,Single,2.0,1,5,1,0.0,Executive,17394.0,1
+2763,202763,33.0,Self Enquiry,3,15.0,Large Business,Female,4,5.0,Deluxe,4.0,Divorced,3.0,1,2,1,1.0,Manager,23906.0,0
+3965,203965,29.0,Self Enquiry,1,12.0,Large Business,Male,3,4.0,Basic,3.0,Unmarried,3.0,1,1,0,1.0,Executive,22119.0,1
+1184,201184,54.0,Self Enquiry,1,28.0,Small Business,Female,3,3.0,Super Deluxe,3.0,Married,4.0,0,1,1,1.0,AVP,32426.0,0
+1767,201767,35.0,Self Enquiry,3,22.0,Small Business,Male,3,3.0,Standard,4.0,Married,1.0,0,1,1,1.0,Senior Manager,23020.0,0
+2974,202974,28.0,Self Enquiry,1,7.0,Salaried,Female,4,4.0,Standard,5.0,Divorced,3.0,0,4,1,3.0,Senior Manager,26090.0,0
+2426,202426,56.0,Self Enquiry,3,22.0,Salaried,Female,3,3.0,Standard,5.0,Single,3.0,1,5,1,,Senior Manager,34717.0,1
+749,200749,52.0,Self Enquiry,3,8.0,Small Business,Female,2,5.0,King,3.0,Divorced,2.0,0,3,1,,VP,34845.0,1
+1502,201502,30.0,Self Enquiry,1,15.0,Small Business,Male,2,4.0,Basic,3.0,Single,2.0,0,4,0,1.0,Executive,17206.0,0
+963,200963,38.0,Self Enquiry,3,8.0,Salaried,Female,2,3.0,Deluxe,5.0,Married,4.0,0,4,0,1.0,Manager,21893.0,0
+237,200237,52.0,Company Invited,3,8.0,Salaried,Male,3,4.0,King,3.0,Single,2.0,1,2,1,2.0,VP,34068.0,0
+1357,201357,42.0,Self Enquiry,1,12.0,Small Business,Male,2,3.0,Standard,5.0,Married,1.0,0,3,1,0.0,Senior Manager,28348.0,0
+4716,204716,34.0,Company Invited,3,14.0,Salaried,Female,2,4.0,Deluxe,4.0,Married,2.0,0,4,0,1.0,Manager,22980.0,0
+412,200412,46.0,Self Enquiry,1,,Small Business,Female,2,3.0,Deluxe,3.0,Married,3.0,0,5,0,0.0,Manager,19810.0,0
+2865,202865,30.0,Self Enquiry,1,32.0,Large Business,Female,4,5.0,Basic,4.0,Divorced,7.0,0,3,0,3.0,Executive,21224.0,1
+675,200675,31.0,Self Enquiry,3,13.0,Salaried,Male,2,4.0,Basic,3.0,Divorced,4.0,0,4,1,1.0,Executive,17329.0,0
+515,200515,35.0,Company Invited,1,9.0,Salaried,Male,2,4.0,Basic,3.0,Divorced,2.0,0,2,1,1.0,Executive,16281.0,0
+2805,202805,41.0,Self Enquiry,1,17.0,Salaried,Female,3,3.0,Basic,3.0,Divorced,5.0,1,3,0,2.0,Executive,20891.0,0
+2591,202591,42.0,Company Invited,1,17.0,Salaried,Male,4,5.0,Super Deluxe,5.0,Married,,0,2,1,1.0,AVP,35859.0,0
+2592,202592,42.0,Self Enquiry,1,16.0,Salaried,Male,4,4.0,Basic,5.0,Divorced,4.0,0,2,0,3.0,Executive,20916.0,0
+2790,202790,42.0,Self Enquiry,1,13.0,Small Business,Male,4,5.0,Deluxe,4.0,Unmarried,8.0,1,3,1,1.0,Manager,24710.0,0
+2996,202996,57.0,Self Enquiry,1,16.0,Small Business,Male,3,4.0,Super Deluxe,3.0,Divorced,2.0,0,4,0,1.0,AVP,29781.0,0
+3852,203852,24.0,Self Enquiry,1,19.0,Salaried,Male,4,4.0,Basic,3.0,Unmarried,3.0,0,5,1,1.0,Executive,21325.0,0
+79,200079,46.0,Self Enquiry,2,11.0,Small Business,Male,3,,Deluxe,4.0,Married,1.0,1,5,0,1.0,Manager,20021.0,0
+1389,201389,31.0,Company Invited,1,6.0,Salaried,Male,2,,Deluxe,5.0,Married,2.0,0,1,1,1.0,Manager,20003.0,0
+3952,203952,37.0,Self Enquiry,1,12.0,Salaried,Female,3,5.0,Basic,5.0,Married,2.0,1,1,1,2.0,Executive,22097.0,0
+4669,204669,46.0,Self Enquiry,3,18.0,Salaried,Female,3,4.0,Super Deluxe,3.0,Married,,0,4,0,2.0,AVP,36328.0,0
+2485,202485,28.0,Self Enquiry,1,9.0,Salaried,Female,3,4.0,Basic,5.0,Married,3.0,0,3,0,2.0,Executive,21019.0,0
+856,200856,20.0,Self Enquiry,1,9.0,Salaried,Male,2,4.0,Basic,3.0,Single,2.0,0,3,0,1.0,Executive,18033.0,0
+3767,203767,29.0,Company Invited,2,7.0,Salaried,Male,3,4.0,Basic,3.0,Married,3.0,0,4,0,2.0,Executive,21384.0,0
+2258,202258,,Self Enquiry,1,16.0,Salaried,Female,2,3.0,Deluxe,3.0,Single,4.0,0,4,0,1.0,Manager,18660.0,0
+1921,201921,42.0,Self Enquiry,1,30.0,Small Business,Male,2,3.0,Standard,5.0,Married,2.0,1,1,1,0.0,Senior Manager,22406.0,0
+1615,201615,30.0,Self Enquiry,1,11.0,Large Business,Female,2,3.0,Basic,5.0,Married,6.0,0,5,0,1.0,Executive,18204.0,0
+4284,204284,22.0,Self Enquiry,3,19.0,Salaried,Female,3,2.0,Basic,4.0,Unmarried,3.0,0,5,0,2.0,Executive,21394.0,1
+862,200862,44.0,Company Invited,1,23.0,Salaried,Male,3,5.0,Basic,3.0,Single,3.0,0,4,1,0.0,Executive,17290.0,0
+1945,201945,26.0,Self Enquiry,3,34.0,Small Business,Male,3,3.0,Deluxe,4.0,Married,2.0,0,3,0,0.0,Manager,21272.0,0
+4601,204601,37.0,Self Enquiry,1,9.0,Small Business,Male,4,4.0,Basic,3.0,Single,6.0,0,5,1,2.0,Executive,21197.0,0
+2888,202888,49.0,Self Enquiry,3,9.0,Small Business,Female,3,4.0,Deluxe,3.0,Divorced,4.0,0,5,1,1.0,Manager,22729.0,0
+958,200958,34.0,Self Enquiry,1,15.0,Salaried,Male,2,3.0,Standard,3.0,Married,1.0,0,5,1,1.0,Senior Manager,23500.0,0
+3224,203224,29.0,Company Invited,1,31.0,Large Business,Male,4,5.0,Standard,5.0,Unmarried,3.0,0,2,0,1.0,Senior Manager,27400.0,1
+4789,204789,45.0,Self Enquiry,1,36.0,Salaried,Male,3,4.0,Deluxe,3.0,Unmarried,3.0,0,5,1,2.0,Manager,23219.0,0
+2676,202676,60.0,Self Enquiry,2,13.0,Small Business,Male,3,4.0,Basic,3.0,Divorced,2.0,0,4,1,1.0,Executive,20945.0,0
+3040,203040,36.0,Self Enquiry,1,7.0,Salaried,Female,3,2.0,Basic,3.0,Single,5.0,0,3,0,1.0,Executive,21184.0,0
+4672,204672,60.0,Self Enquiry,3,7.0,Large Business,Male,4,4.0,Standard,3.0,Married,5.0,1,1,1,1.0,Senior Manager,30582.0,0
+2351,202351,32.0,Company Invited,1,8.0,Salaried,Female,2,,Deluxe,3.0,Single,5.0,1,5,1,0.0,Manager,19998.0,0
+2356,202356,,Self Enquiry,1,7.0,Small Business,Male,3,3.0,Basic,4.0,Married,1.0,1,4,1,2.0,Executive,18579.0,0
+889,200889,27.0,Self Enquiry,1,20.0,Salaried,Male,2,3.0,Basic,5.0,Divorced,2.0,1,4,1,0.0,Executive,17235.0,0
+2695,202695,40.0,Company Invited,1,9.0,Large Business,Female,4,4.0,Standard,3.0,Single,2.0,0,2,1,2.0,Senior Manager,29616.0,0
+25,200025,53.0,Self Enquiry,1,11.0,Salaried,Female,2,3.0,King,3.0,Married,5.0,0,5,0,1.0,VP,34094.0,0
+2700,202700,43.0,Self Enquiry,1,9.0,Small Business,Female,3,5.0,Basic,5.0,Married,2.0,1,4,1,1.0,Executive,21271.0,0
+4599,204599,27.0,Company Invited,3,7.0,Small Business,Male,3,5.0,Deluxe,5.0,Unmarried,3.0,0,3,0,1.0,Manager,22972.0,0
+750,200750,44.0,Self Enquiry,3,34.0,Small Business,Female,2,1.0,Super Deluxe,3.0,Divorced,4.0,1,2,1,1.0,AVP,28320.0,0
+3112,203112,29.0,Self Enquiry,1,16.0,Small Business,Female,4,4.0,Basic,3.0,Married,7.0,0,3,1,2.0,Executive,21055.0,0
+2232,202232,26.0,Company Invited,1,8.0,Salaried,Male,2,3.0,Basic,5.0,Married,7.0,1,5,0,0.0,Executive,17042.0,1
+172,200172,36.0,Company Invited,1,9.0,Small Business,Male,1,3.0,Basic,4.0,Single,5.0,0,4,1,0.0,Executive,17088.0,0
+3169,203169,36.0,Self Enquiry,1,21.0,Salaried,Male,3,5.0,Basic,4.0,Married,3.0,1,5,1,2.0,Executive,22421.0,1
+4306,204306,55.0,Self Enquiry,1,12.0,Small Business,Male,3,4.0,King,5.0,Married,,0,4,1,1.0,VP,38084.0,0
+1437,201437,39.0,Company Invited,1,15.0,Salaried,Male,2,3.0,King,3.0,Single,3.0,0,4,0,1.0,VP,34431.0,0
+2675,202675,43.0,Self Enquiry,1,11.0,Large Business,Male,3,4.0,King,3.0,Divorced,,0,2,0,2.0,VP,37910.0,0
+1221,201221,45.0,Company Invited,1,6.0,Salaried,Male,3,4.0,Standard,3.0,Married,4.0,0,1,1,2.0,Senior Manager,25748.0,0
+826,200826,38.0,Self Enquiry,2,6.0,Salaried,Male,2,1.0,Basic,3.0,Divorced,2.0,0,4,1,0.0,Executive,17844.0,0
+797,200797,26.0,Self Enquiry,1,27.0,Small Business,Male,2,3.0,Basic,3.0,Married,2.0,0,5,1,1.0,Executive,17377.0,1
+4069,204069,30.0,Company Invited,1,7.0,Large Business,Male,3,4.0,Deluxe,3.0,Married,3.0,0,3,0,1.0,Manager,22997.0,0
+2098,202098,37.0,Self Enquiry,3,22.0,Small Business,Male,3,4.0,Deluxe,3.0,Married,5.0,0,5,1,0.0,Manager,21334.0,0
+4076,204076,29.0,Self Enquiry,1,28.0,Small Business,Male,3,4.0,Basic,3.0,Married,3.0,0,1,0,1.0,Executive,21391.0,0
+693,200693,36.0,Self Enquiry,3,9.0,Salaried,Male,2,4.0,Standard,3.0,Divorced,2.0,1,2,1,0.0,Senior Manager,25325.0,1
+1237,201237,32.0,Self Enquiry,3,6.0,Salaried,Male,2,5.0,Deluxe,4.0,Unmarried,7.0,0,3,0,1.0,Manager,21735.0,1
+1907,201907,30.0,Self Enquiry,3,13.0,Small Business,Male,2,3.0,Basic,4.0,Single,1.0,0,1,0,0.0,Executive,17983.0,0
+3629,203629,44.0,Self Enquiry,1,22.0,Salaried,Male,4,5.0,Super Deluxe,3.0,Married,,0,3,1,2.0,AVP,36281.0,0
+3594,203594,36.0,Self Enquiry,1,25.0,Salaried,Male,3,2.0,Deluxe,5.0,Married,3.0,0,3,0,2.0,Manager,23886.0,0
+2488,202488,31.0,Company Invited,1,7.0,Small Business,Female,3,4.0,Deluxe,3.0,Unmarried,3.0,0,3,1,1.0,Manager,22689.0,0
+590,200590,33.0,Self Enquiry,1,13.0,Small Business,Male,2,3.0,Standard,3.0,Divorced,1.0,0,4,0,0.0,Senior Manager,26691.0,0
+3621,203621,51.0,Self Enquiry,1,24.0,Salaried,Female,3,5.0,Standard,5.0,Married,7.0,0,3,1,1.0,Senior Manager,31947.0,0
+1751,201751,42.0,Self Enquiry,3,6.0,Salaried,Male,1,3.0,Deluxe,3.0,Married,2.0,0,3,1,0.0,Manager,19907.0,0
+669,200669,39.0,Self Enquiry,1,12.0,Small Business,Male,3,3.0,Basic,5.0,Divorced,1.0,1,2,1,1.0,Executive,17404.0,1
+306,200306,32.0,Self Enquiry,3,13.0,Salaried,Male,3,4.0,Deluxe,3.0,Divorced,2.0,0,3,1,2.0,Manager,20484.0,0
+1271,201271,21.0,Self Enquiry,3,13.0,Small Business,Male,2,3.0,Basic,4.0,Single,2.0,0,5,1,1.0,Executive,17679.0,1
+1787,201787,52.0,Self Enquiry,1,14.0,Small Business,Male,2,,Deluxe,4.0,Married,3.0,0,1,1,0.0,Manager,19941.0,1
+4519,204519,39.0,Company Invited,1,19.0,Salaried,Male,2,5.0,Deluxe,5.0,Married,4.0,0,5,1,1.0,Manager,24966.0,0
+530,200530,27.0,Self Enquiry,1,6.0,Salaried,Female,3,3.0,Standard,5.0,Divorced,2.0,0,4,1,2.0,Senior Manager,22412.0,0
+4449,204449,42.0,Self Enquiry,2,17.0,Salaried,Male,4,5.0,King,3.0,Married,,0,1,1,2.0,VP,37819.0,0
+3335,203335,45.0,Self Enquiry,1,9.0,Salaried,Female,4,2.0,Basic,3.0,Divorced,3.0,0,4,1,1.0,Executive,20689.0,0
+4070,204070,52.0,Self Enquiry,1,14.0,Small Business,Male,3,5.0,Deluxe,3.0,Married,4.0,0,3,1,2.0,Manager,24810.0,0
+3574,203574,36.0,Self Enquiry,1,35.0,Salaried,Male,3,2.0,Deluxe,3.0,Married,3.0,0,5,1,1.0,Manager,22085.0,0
+4206,204206,32.0,Company Invited,3,12.0,Small Business,Female,3,4.0,Basic,4.0,Married,3.0,0,3,0,1.0,Executive,21467.0,0
+4862,204862,31.0,Self Enquiry,1,9.0,Salaried,Male,4,4.0,Basic,4.0,Single,3.0,0,3,0,1.0,Executive,30594.0,1
+333,200333,43.0,Self Enquiry,1,13.0,Salaried,Female,2,3.0,Standard,5.0,Divorced,1.0,0,5,1,0.0,Senior Manager,24985.0,0
+4248,204248,46.0,Self Enquiry,1,15.0,Salaried,Male,4,4.0,Deluxe,3.0,Married,2.0,0,3,1,1.0,Manager,22375.0,0
+2472,202472,45.0,Self Enquiry,1,14.0,Small Business,Female,3,5.0,Standard,3.0,Divorced,5.0,0,4,1,1.0,Senior Manager,28926.0,0
+455,200455,33.0,Self Enquiry,1,6.0,Small Business,Female,3,2.0,Super Deluxe,3.0,Married,5.0,0,2,0,2.0,AVP,31184.0,0
+2001,202001,32.0,Self Enquiry,1,9.0,Salaried,Fe Male,2,3.0,Standard,3.0,Unmarried,4.0,0,1,1,0.0,Senior Manager,26159.0,0
+2910,202910,42.0,Self Enquiry,3,9.0,Salaried,Female,4,4.0,Super Deluxe,5.0,Divorced,2.0,0,5,1,,AVP,35273.0,0
+3268,203268,43.0,Self Enquiry,1,36.0,Small Business,Male,3,6.0,Deluxe,3.0,Unmarried,6.0,0,3,1,1.0,Manager,22950.0,0
+1355,201355,36.0,Self Enquiry,3,23.0,Small Business,Male,2,4.0,Deluxe,4.0,Married,3.0,0,4,1,0.0,Manager,20507.0,0
+4838,204838,36.0,Company Invited,1,9.0,Salaried,Female,3,5.0,Basic,5.0,Unmarried,4.0,1,3,0,1.0,Executive,22184.0,1
+905,200905,29.0,Self Enquiry,1,6.0,Salaried,Female,2,4.0,Super Deluxe,3.0,Married,4.0,0,2,0,1.0,AVP,31124.0,0
+3301,203301,45.0,Self Enquiry,1,17.0,Salaried,Male,4,4.0,Basic,3.0,Unmarried,3.0,1,3,1,3.0,Executive,21614.0,1
+4786,204786,34.0,Company Invited,3,32.0,Small Business,Female,3,4.0,Deluxe,3.0,Married,3.0,0,3,0,2.0,Manager,23217.0,0
+4499,204499,24.0,Self Enquiry,1,13.0,Salaried,Male,4,2.0,Basic,5.0,Married,3.0,1,3,0,1.0,Executive,20279.0,1
+4664,204664,45.0,Self Enquiry,3,35.0,Small Business,Female,3,2.0,Super Deluxe,3.0,Married,5.0,1,1,1,1.0,AVP,31998.0,0
+4375,204375,36.0,Self Enquiry,3,7.0,Small Business,Fe Male,4,4.0,Deluxe,3.0,Unmarried,3.0,0,4,1,1.0,Manager,23537.0,0
+2089,202089,,Self Enquiry,3,6.0,Small Business,Male,2,1.0,Deluxe,5.0,Married,2.0,0,4,0,1.0,Manager,,0
+508,200508,35.0,Self Enquiry,1,12.0,Salaried,Male,2,5.0,Deluxe,3.0,Unmarried,2.0,0,5,1,0.0,Manager,21646.0,0
+4137,204137,39.0,Self Enquiry,3,10.0,Salaried,Male,4,4.0,Standard,3.0,Married,2.0,0,1,1,2.0,Senior Manager,29287.0,0
+1833,201833,33.0,Self Enquiry,3,11.0,Small Business,Female,2,3.0,Basic,3.0,Single,2.0,1,1,0,1.0,Executive,17851.0,1
+1521,201521,,Self Enquiry,1,11.0,Large Business,Male,2,3.0,Basic,3.0,Single,2.0,1,1,0,0.0,Executive,18441.0,1
+798,200798,33.0,Self Enquiry,1,31.0,Small Business,Male,2,4.0,Basic,4.0,Single,5.0,1,4,0,0.0,Executive,17313.0,1
+1058,201058,34.0,Self Enquiry,3,,Small Business,Female,2,4.0,Deluxe,4.0,Single,1.0,1,5,1,0.0,Manager,19599.0,1
+2079,202079,43.0,Self Enquiry,1,20.0,Salaried,Male,3,3.0,Super Deluxe,5.0,Married,7.0,0,5,1,1.0,AVP,32159.0,0
+936,200936,45.0,Company Invited,1,31.0,Small Business,Female,2,3.0,King,4.0,Single,4.0,0,4,1,1.0,VP,33061.0,0
+1480,201480,35.0,Self Enquiry,1,22.0,Small Business,Male,2,1.0,Basic,4.0,Married,1.0,0,4,1,1.0,Executive,17426.0,0
+70,200070,59.0,Company Invited,3,6.0,Salaried,Female,2,4.0,Deluxe,3.0,Single,1.0,0,5,1,1.0,Manager,20473.0,0
+676,200676,,Self Enquiry,1,27.0,Salaried,Female,2,3.0,Deluxe,3.0,Divorced,2.0,1,3,0,1.0,Manager,,0
+2162,202162,32.0,Self Enquiry,1,9.0,Small Business,Female,3,3.0,Deluxe,5.0,Married,2.0,0,1,1,0.0,Manager,21725.0,0
+4710,204710,26.0,Self Enquiry,1,11.0,Large Business,Male,3,4.0,Basic,3.0,Married,3.0,1,3,1,2.0,Executive,22369.0,1
+2647,202647,41.0,Self Enquiry,1,26.0,Small Business,Male,3,4.0,Deluxe,3.0,Divorced,2.0,1,2,1,2.0,Manager,21419.0,0
+2572,202572,23.0,Self Enquiry,1,9.0,Large Business,Male,4,4.0,Basic,3.0,Divorced,2.0,0,5,1,3.0,Executive,21201.0,0
+230,200230,52.0,Self Enquiry,1,8.0,Salaried,Female,2,4.0,Basic,3.0,Single,1.0,0,3,0,0.0,Executive,18212.0,0
+3846,203846,32.0,Self Enquiry,1,,Small Business,Female,3,6.0,Basic,3.0,Married,3.0,1,5,1,1.0,Executive,19807.0,0
+4575,204575,44.0,Self Enquiry,1,15.0,Salaried,Female,3,4.0,Deluxe,4.0,Married,6.0,0,3,1,1.0,Manager,23443.0,0
+346,200346,41.0,Self Enquiry,1,12.0,Small Business,Male,3,4.0,Deluxe,4.0,Single,7.0,1,3,1,0.0,Manager,21032.0,0
+1676,201676,22.0,Self Enquiry,1,11.0,Salaried,Male,2,1.0,Basic,4.0,Married,2.0,1,4,1,0.0,Executive,17328.0,0
+1242,201242,40.0,Self Enquiry,3,13.0,Small Business,Male,2,3.0,King,4.0,Single,2.0,0,4,1,,VP,34833.0,0
+3943,203943,47.0,Self Enquiry,3,9.0,Small Business,Female,3,4.0,King,5.0,Single,,0,1,1,2.0,VP,37625.0,0
+118,200118,36.0,Self Enquiry,1,9.0,Salaried,Female,2,3.0,Basic,3.0,Married,6.0,0,2,1,0.0,Executive,17835.0,0
+2018,202018,43.0,Company Invited,3,21.0,Salaried,Male,2,4.0,Deluxe,3.0,Married,4.0,0,5,1,0.0,Manager,21804.0,0
+3791,203791,37.0,Company Invited,2,9.0,Salaried,Male,4,5.0,Deluxe,3.0,Unmarried,3.0,0,3,1,1.0,Manager,22564.0,0
+2251,202251,,Self Enquiry,1,6.0,Small Business,Male,2,4.0,Basic,5.0,Married,2.0,0,3,1,1.0,Executive,,0
+3690,203690,31.0,Company Invited,2,15.0,Salaried,Female,4,5.0,Basic,3.0,Married,8.0,0,5,1,3.0,Executive,20858.0,1
+4053,204053,31.0,Self Enquiry,2,16.0,Salaried,Male,3,4.0,Deluxe,3.0,Married,2.0,1,3,1,2.0,Manager,25025.0,0
+4660,204660,42.0,Company Invited,1,14.0,Salaried,Female,3,6.0,King,,Married,3.0,0,4,1,2.0,VP,38651.0,0
+2640,202640,36.0,Company Invited,1,9.0,Small Business,Female,3,4.0,Deluxe,4.0,Unmarried,7.0,0,2,1,1.0,Manager,23103.0,0
+183,200183,,Self Enquiry,1,6.0,Small Business,Male,2,4.0,Basic,3.0,Divorced,3.0,0,3,0,0.0,Executive,18690.0,0
+2039,202039,36.0,Company Invited,3,14.0,Salaried,Male,3,4.0,Standard,5.0,Unmarried,2.0,0,1,0,0.0,Senior Manager,22587.0,0
+235,200235,43.0,Self Enquiry,3,22.0,Small Business,Female,3,3.0,Super Deluxe,3.0,Divorced,6.0,1,3,0,1.0,AVP,31064.0,0
+2243,202243,36.0,Self Enquiry,1,18.0,Small Business,Fe Male,2,4.0,Standard,3.0,Unmarried,1.0,0,1,1,0.0,Senior Manager,23858.0,0
+200,200200,27.0,Company Invited,1,,Large Business,Male,2,4.0,Deluxe,5.0,Divorced,6.0,0,3,0,1.0,Manager,,0
+112,200112,54.0,Company Invited,2,32.0,Salaried,Female,1,2.0,Super Deluxe,3.0,Single,3.0,1,3,1,0.0,AVP,32328.0,0
+1393,201393,,Self Enquiry,3,15.0,Small Business,Male,2,3.0,Deluxe,3.0,Single,2.0,0,1,0,1.0,Manager,,0
+784,200784,38.0,Self Enquiry,1,23.0,Salaried,Female,3,4.0,Standard,3.0,Divorced,1.0,0,2,0,2.0,Senior Manager,23823.0,0
+1586,201586,34.0,Self Enquiry,1,11.0,Small Business,Fe Male,2,4.0,Standard,5.0,Unmarried,3.0,0,1,1,1.0,Senior Manager,26631.0,0
+369,200369,31.0,Self Enquiry,1,15.0,Salaried,Male,2,4.0,Basic,4.0,Single,1.0,1,3,1,0.0,Executive,17657.0,0
+3079,203079,36.0,Self Enquiry,1,16.0,Salaried,Female,4,5.0,Standard,3.0,Divorced,3.0,1,4,1,2.0,Senior Manager,29363.0,0
+1240,201240,39.0,Company Invited,1,6.0,Salaried,Male,3,3.0,Deluxe,3.0,Married,2.0,1,5,1,2.0,Manager,21472.0,0
