@@ -32,4 +32,17 @@ class DataIngestionConfig:
         self.collection_name: str = training_pipeline.DATA_INGESTION_COLLECTION_NAME
 
         self.database_name: str = training_pipeline.DATA_INGESTION_DATABASE_NAME
+    
+        self.training_file_path: str = os.path.join(
+            self.data_ingestion_dir,
+            training_pipeline.DATA_INGESTION_INGESTED_DIR,
+            training_pipeline.TRAIN_FILE_NAME
+        )
 
+        self.test_file_path: str = os.path.join(
+            self.data_ingestion_dir,
+            training_pipeline.DATA_INGESTION_INGESTED_DIR,
+            training_pipeline.TEST_FILE_NAME
+        )
+
+        self.train_test_split_ratio: float = training_pipeline.DATA_INGESTION_TRAIN_TEST_SPLIT_RATIO
