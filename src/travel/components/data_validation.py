@@ -90,6 +90,8 @@ class DataValidation:
             raise TravelException(e,sys)
     
 
+
+
     def detect_data_drift(self,base_df,current_df,threshold:float=0.05)->bool:
         """
         Detecting drift with the help of Kolmogorov-Smirnov Test or KS Test
@@ -130,6 +132,11 @@ class DataValidation:
         """
         try:
             logging.info("Initiating data validation")
+            logging.info("Creating folder for data validation")
+            os.makedirs(self.data_validation_config.valid_data_dir, exist_ok=True)
+            os.makedirs(self.data_validation_config.invalid_data_dir, exist_ok=True)
+
+
             train_file_path = self.data_ingestion_artifact.trained_file_path
             test_file_path = self.data_ingestion_artifact.test_file_path
             
@@ -175,8 +182,10 @@ class DataValidation:
                 raise Exception(error_message)
 
             # Checking Data DRIFT
-            self.detect_data_drift(base_df=train_dataframe, current_df=test_dataframe)
-
+            # self.detect_data_drift(base_df=train_dataframe, current_df=test_dataframe)
+            # NOTE: 1Since data is still not transformed so we cannot check distribution of train and test so after transformation this step should be taken care of.
+            train_dataframe.to_csv(self.data_validation_config.valid_train_file_path)
+            test_dataframe.to_csv(self.data_validation_config.valid_test_file_path)
             # creating data valiidation artifact
             data_validation_artifact = DataValidationArtifact(
                 validation_status = status,
@@ -184,9 +193,9 @@ class DataValidation:
                 valid_test_file_path = self.data_validation_config.valid_test_file_path,
                 invalid_train_file_path = self.data_validation_config.invalid_train_file_path,
                 invalid_test_file_path = self.data_validation_config.invalid_train_file_path,
-                drift_report_file_path = self.data_validation_config.drift_report_file_path,
+                drift_report_file_path = None,
             )
-
+            
             logging.info(f"Got data validation Artifact as [{data_validation_artifact}]\n\n")
             
             # return artifacts that are created 
