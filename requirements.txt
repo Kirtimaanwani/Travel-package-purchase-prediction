@@ -2,6 +2,7 @@ ipywidgets==8.0.2
 notebook==6.4.12
 ensure==1.0.2
 
+
 scikit-learn
 matplotlib
 seaborn
@@ -16,5 +17,7 @@ flake8==5.0.4
 mypy==0.971
 pymongo[srv]==4.2.0
 from_root
+
 xgboost
 -e .
+
