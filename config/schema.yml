@@ -17,7 +17,6 @@ categorical_columns:
 columns:
   Age: float64
   CityTier: int64
-  CustomerID: int64
   Designation: object
   DurationOfPitch: float64
   Gender: object
@@ -38,7 +37,6 @@ columns:
 drop_columns:
 - CustomerID
 numerical_columns:
-- CustomerID
 - Age
 - DurationOfPitch
 - NumberOfTrips

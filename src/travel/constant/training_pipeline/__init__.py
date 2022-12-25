@@ -1,4 +1,4 @@
-import os, sys
+import os
 
 TARGET_FEATURE :str = "ProdTaken"
 FILE_NAME: str = "travel.csv"
@@ -8,6 +8,9 @@ TRAIN_FILE_NAME:str = "train.csv"
 TEST_FILE_NAME:str = "test.csv"
 SCHEMA_FILE_PATH = os.path.join("config", "schema.yml")
 SCHEMA_DROP_COLS = "drop_columns"  # used to write columns which are to be droopped in schema.yaml file
+
+
+PREPROCESSING_OBJECT_FILE_NAME = "preprocessing.pkl"
 
 """ 
 Data Ingestion related constant start with DATA_INGESTION variable Name
@@ -28,3 +31,10 @@ DATA_VALIDATION_VALID_DIR:str = "validated"
 DATA_VALIDATION_INVALID_DIR:str = "invalid"
 DATA_VALIDATION_DRIFT_REPORT_DIR: str = "drift_report"
 DATA_VALIDATION_DRIFT_REPORT_FILE_NAME: str = "drift_report.yaml"
+
+"""
+Data Transformation related constants starts with DATA_TRANS_variable_Name
+"""
+DATA_TRANS_DIR_NAME:str = "data_transformation"
+DATA_TRANS_TRANSFORMED_DATA_DIR:str = "transformed"
+DATA_TRANS_TRANSFORMED_OBJECT_DIR:str = "transformed_object"

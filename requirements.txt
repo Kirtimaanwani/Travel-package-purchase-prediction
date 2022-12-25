@@ -17,7 +17,7 @@ flake8==5.0.4
 mypy==0.971
 pymongo[srv]==4.2.0
 from_root
-
+imblearn
 xgboost
 -e .
 
