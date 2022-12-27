@@ -1,6 +1,10 @@
 import os
 
-TARGET_FEATURE :str = "ProdTaken"
+TARGET_COLUMN :str = "ProdTaken"
+FEATURE_NAMES:str = ['Age','TypeofContact','CityTier','DurationOfPitch','Occupation',
+                        'Gender','NumberOfPersonVisiting','NumberOfFollowups','ProductPitched',
+                        'PreferredPropertyStar','MaritalStatus','NumberOfTrips','Passport','PitchSatisfactionScore'
+                        ,'OwnCar','NumberOfChildrenVisiting','Designation','MonthlyIncome']
 FILE_NAME: str = "travel.csv"
 ARTIFACT_DIR: str = "artifact"
 PIPELINE_NAME: str = "travel"

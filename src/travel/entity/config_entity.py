@@ -93,16 +93,19 @@ class DataTransformationConfig:
 
         self.transformed_train_file_path: str = os.path.join(
                                                         self.data_transformation_dir,
-                                                            training_pipeline.DATA_TRANS_DIR_NAME,
-                                                                training_pipeline.TRAIN_FILE_NAME
+                                                            training_pipeline.DATA_TRANS_TRANSFORMED_DATA_DIR,
+                                                                training_pipeline.TRAIN_FILE_NAME.replace("csv", "npy")
                                                                     )
 
         self.transformed_test_file_path: str = os.path.join(
                                                         self.data_transformation_dir,
-                                                            training_pipeline.DATA_TRANS_DIR_NAME,
+                                                            training_pipeline.DATA_TRANS_TRANSFORMED_DATA_DIR,
                                                                 training_pipeline.TEST_FILE_NAME.replace("csv", "npy")
                                                                     )
-        
+        self.data_trans_transformed_object_dir:str = os.path.join(
+                                                self.data_transformation_dir,
+                                                    training_pipeline.DATA_TRANS_TRANSFORMED_OBJECT_DIR
+                                                            )
         self.transformed_object_file_path: str = os.path.join(
                                                         self.data_transformation_dir,
                                                             training_pipeline.DATA_TRANS_TRANSFORMED_OBJECT_DIR,
