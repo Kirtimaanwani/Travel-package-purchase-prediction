@@ -12,7 +12,7 @@ TRAIN_FILE_NAME:str = "train.csv"
 TEST_FILE_NAME:str = "test.csv"
 SCHEMA_FILE_PATH = os.path.join("config", "schema.yml")
 SCHEMA_DROP_COLS = "drop_columns"  # used to write columns which are to be droopped in schema.yaml file
-
+MODEL_FILE_NAME = "model.pkl"
 
 PREPROCESSING_OBJECT_FILE_NAME = "preprocessing.pkl"
 
@@ -42,3 +42,15 @@ Data Transformation related constants starts with DATA_TRANS_variable_Name
 DATA_TRANS_DIR_NAME:str = "data_transformation"
 DATA_TRANS_TRANSFORMED_DATA_DIR:str = "transformed"
 DATA_TRANS_TRANSFORMED_OBJECT_DIR:str = "transformed_object"
+
+
+"""
+Model Trainer related constants starts with MODEL_TRAINER_var name
+"""
+MODEL_TRAINER_DIR_NAME: str = "model_trainer"
+MODEL_TRAINER_TRAINED_MODEL_DIR: str = "trained_model"
+MODEL_TRAINER_TRAINED_MODEL_NAME : str = "model.pkl"
+MODEL_TRAINER_EXPECTED_SCORE: float =  0.8
+MODEL_TRAINER_OVER_FIITING_UNDER_FITTING_THRESHOLD: float = 0.1
+
+# params_tuned =  {'max_depth': 17.45980664953067, 'min_samples_leaf': 1.2653869952885435, 'min_samples_split': 2.0835728200367796, 'n_estimators': 151.27017362733017}

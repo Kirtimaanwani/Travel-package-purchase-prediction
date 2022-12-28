@@ -26,7 +26,7 @@ class DataTransformation:
             self.data_validation_artifact = data_validation_artifact
             self.data_transformation_config = data_transformation_config
             self._schema_config = read_yaml_file(SCHEMA_FILE_PATH)
-            
+            self.feature_names_after_transformation = None
         except Exception as e:
             raise TravelException(e, sys)
 
@@ -129,7 +129,10 @@ class DataTransformation:
             transformed_input_feature_train_df = preprocessor_object.transform(input_feature_train_df)
             # for test data frame
             transformed_input_feature_test_df = preprocessor_object.transform(input_feature_test_df)
-
+            # print(preprocessor_object.named_steps['categorical'].get_feature_names())
+            
+            self.feature_names_after_transformation = list(preprocessor_object.transformers_[0][2]) + list(preprocessor_object.transformers_[1][2])
+            
 
         # Using SMOTETomek 
             logging.info("Using SMOTETomek on train and test data")
