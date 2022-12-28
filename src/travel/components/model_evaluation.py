@@ -96,12 +96,14 @@ class ModelEvaluation:
                     best_model_metric_artifact=latest_metric)
 
             model_eval_report = model_evaluation_artifact.__dict__
+            print(model_eval_report)
 
         # Saving the evaluation report
-            write_yaml_file(self.model_eval_config.report_file_path, model_eval_report)
+            os.makedirs(self.model_eval_config.model_evaluation_dir, exist_ok=True)
+            write_yaml_file(self.model_eval_config.report_file_path, model_eval_report, replace=True)
             logging.info(f"Model evaluation artifact: {model_evaluation_artifact}\n\n")
 
-            return model_evaluation_artifact 
+            return model_evaluation_artifact        
         except Exception as e:
             raise TravelException(e,sys)
 
