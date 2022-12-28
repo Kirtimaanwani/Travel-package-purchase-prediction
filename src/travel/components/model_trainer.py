@@ -103,7 +103,7 @@ class ModelTrainer:
                                                                 train_metric_artifact=classification_train_metric,
                                                                     test_metric_artifact=classification_test_metric)
             logging.info(f"Model trainer artifact: {model_trainer_artifact}\n\n")
-
+            print(f"Model trainer artifact: {model_trainer_artifact}\n\n")
             return model_trainer_artifact
 
         except Exception as e:
