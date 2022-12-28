@@ -52,5 +52,11 @@ MODEL_TRAINER_TRAINED_MODEL_DIR: str = "trained_model"
 MODEL_TRAINER_TRAINED_MODEL_NAME : str = "model.pkl"
 MODEL_TRAINER_EXPECTED_SCORE: float =  0.8
 MODEL_TRAINER_OVER_FIITING_UNDER_FITTING_THRESHOLD: float = 0.1
-
+MODEL_TRAINER_TUNED_PARAMETERS : dict = {'criterion': 'gini', 
+                                'max_depth': int(17.45980664953067), 
+                                'min_samples_leaf': int(1.2653869952885435), 
+                                'min_samples_split': int(2.0835728200367796), 
+                                'n_estimators': int(151.27017362733017)}
 # params_tuned =  {'max_depth': 17.45980664953067, 'min_samples_leaf': 1.2653869952885435, 'min_samples_split': 2.0835728200367796, 'n_estimators': 151.27017362733017}
+
+

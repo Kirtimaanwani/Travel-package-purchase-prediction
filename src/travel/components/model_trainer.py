@@ -9,6 +9,7 @@ from sklearn.ensemble import RandomForestClassifier
 from src.travel.ml.metric.classification_metric import get_classification_score
 from src.travel.ml.model.estimator import SensorModel
 
+from src.travel.constant.training_pipeline import MODEL_TRAINER_TUNED_PARAMETERS
 
 class ModelTrainer:
 
@@ -26,7 +27,7 @@ class ModelTrainer:
     def train_model(self, x_train, y_train):
         try:
             logging.info("performing RandomForestClassifier fit on x_train and y_train")
-            rf_clf = RandomForestClassifier()
+            rf_clf = RandomForestClassifier(**MODEL_TRAINER_TUNED_PARAMETERS)
 
             rf_clf.fit(x_train, y_train)
             logging.info("RandomForestClassifier fit done")
