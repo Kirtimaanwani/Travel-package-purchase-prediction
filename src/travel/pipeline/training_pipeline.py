@@ -3,14 +3,14 @@ from src.travel.exception import TravelException
 from src.travel.logger import logging
 
 
-from src.travel.entity.config_entity import TrainingPipelineConfig, DataIngestionConfig, DataValidationConfig, DataTransformationConfig, ModelTrainerConfig
-from src.travel.entity.artifact_entity import DataIngestionArtifact, DataValidationArtifact, DataTransformationArtifact, ModelTrainerArtifact
+from src.travel.entity.config_entity import TrainingPipelineConfig, DataIngestionConfig, DataValidationConfig, DataTransformationConfig, ModelTrainerConfig, ModelEvaluationConfig
+from src.travel.entity.artifact_entity import DataIngestionArtifact, DataValidationArtifact, DataTransformationArtifact, ModelTrainerArtifact, ModelEvaluationArtifact
 
 from src.travel.components.data_ingestion import DataIngestion
 from src.travel.components.data_validation import DataValidation
 from src.travel.components.data_transformation import DataTransformation
 from src.travel.components.model_trainer import ModelTrainer
-
+from src.travel.components.model_evaluation import ModelEvaluation
 
 class TrainPipeline:
 
@@ -82,6 +82,18 @@ class TrainPipeline:
             raise TravelException(e, sys)    
 
 
+    def start_model_evaluation(self,data_validation_artifact:DataValidationArtifact,
+                                model_trainer_artifact:ModelTrainerArtifact,
+                                )->ModelEvaluationArtifact:
+        try:
+            logging.info("starting model evaluation")
+            model_eval_config = ModelEvaluationConfig(self.training_pipeline_config)
+            model_eval = ModelEvaluation(model_eval_config, data_validation_artifact, model_trainer_artifact)
+            model_eval_artifact = model_eval.initiate_model_evaluation()
+            logging.info("returning model_eval_artifact\n\n")
+            return model_eval_artifact
+        except  Exception as e:
+            raise  TravelException(e,sys)
 
 
     def run_pipeline(self):
@@ -90,5 +102,10 @@ class TrainPipeline:
                 data_validation_artifact: DataValidationArtifact = self.start_data_validation(data_ingestion_artifact=data_ingestion_artifact)
                 data_transformation_artifact: DataTransformationArtifact = self.start_data_transformation(data_validation_artifact=data_validation_artifact)
                 model_trainer_artifact: ModelTrainerArtifact = self.start_model_trainer(data_transformation_artifact=data_transformation_artifact)           
+                model_eval_artifact: ModelEvaluationArtifact = self.start_model_evaluation(data_validation_artifact=data_validation_artifact, model_trainer_artifact=model_trainer_artifact)
+                if not model_eval_artifact.is_model_accepted:
+                    logging.info("Trained model is not better than the best model which is already exists")
+                    raise Exception("Trained model is not better than the best model which is already exists, either add more data or do some better model tune or better split the data or etc.")
+
             except Exception as e:
                 raise TravelException(e, sys)

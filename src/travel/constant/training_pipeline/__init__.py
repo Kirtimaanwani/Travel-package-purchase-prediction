@@ -13,6 +13,7 @@ TEST_FILE_NAME:str = "test.csv"
 SCHEMA_FILE_PATH = os.path.join("config", "schema.yml")
 SCHEMA_DROP_COLS = "drop_columns"  # used to write columns which are to be droopped in schema.yaml file
 MODEL_FILE_NAME = "model.pkl"
+SAVED_MODEL_DIR =os.path.join("saved_models")
 
 PREPROCESSING_OBJECT_FILE_NAME = "preprocessing.pkl"
 
@@ -51,7 +52,7 @@ MODEL_TRAINER_DIR_NAME: str = "model_trainer"
 MODEL_TRAINER_TRAINED_MODEL_DIR: str = "trained_model"
 MODEL_TRAINER_TRAINED_MODEL_NAME : str = "model.pkl"
 MODEL_TRAINER_EXPECTED_SCORE: float =  0.8
-MODEL_TRAINER_OVER_FIITING_UNDER_FITTING_THRESHOLD: float = 0.1
+MODEL_TRAINER_OVER_FIITING_UNDER_FITTING_THRESHOLD: float = 0.15
 MODEL_TRAINER_TUNED_PARAMETERS : dict = {'criterion': 'gini', 
                                 'max_depth': int(16.45980664953067), 
                                 'min_samples_leaf': int(3.2653869952885435), 
@@ -59,4 +60,11 @@ MODEL_TRAINER_TUNED_PARAMETERS : dict = {'criterion': 'gini',
                                 'n_estimators': int(201.27017362733017)}
 # params_tuned =  {'max_depth': 17.45980664953067, 'min_samples_leaf': 1.2653869952885435, 'min_samples_split': 2.0835728200367796, 'n_estimators': 151.27017362733017}
 
+
+"""
+Model Evaluation relate constants starts with MODEL_EVAL_var_name
+"""
+MODEL_EVALUATION_DIR_NAME: str = "model_evaluation"
+MODEL_EVALUATION_CHANGED_THRESHOLD_SCORE: float = 0.015
+MODEL_EVALUATION_REPORT_NAME= "report.yml"
 

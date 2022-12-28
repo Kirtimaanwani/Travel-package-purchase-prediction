@@ -7,7 +7,7 @@ from src.travel.entity.config_entity import ModelTrainerConfig
 
 from sklearn.ensemble import RandomForestClassifier
 from src.travel.ml.metric.classification_metric import get_classification_score
-from src.travel.ml.model.estimator import SensorModel
+from src.travel.ml.model.estimator import TravelModel
 
 from src.travel.constant.training_pipeline import MODEL_TRAINER_TUNED_PARAMETERS
 
@@ -91,11 +91,11 @@ class ModelTrainer:
             model_dir_path = os.path.dirname(self.model_trainer_config.trained_model_file_path)
             os.makedirs(model_dir_path,exist_ok=True)
 
-            logging.info("creating object for SensorModel(preprocessor=preprocessor,model=model)...")
-            sensor_model = SensorModel(preprocessor=preprocessor,model=model)
+            logging.info("creating object for TravelModel(preprocessor=preprocessor,model=model)...")
+            sensor_model = TravelModel(preprocessor=preprocessor,model=model)
 
 
-            logging.info("Saving object for SensorModel(preprocessor=preprocessor,model=model) in created directory...")
+            logging.info("Saving object for TravelModel(preprocessor=preprocessor,model=model) in created directory...")
             save_object(self.model_trainer_config.trained_model_file_path, obj=sensor_model)
 
         # Creating model_trainer Artifact
@@ -103,7 +103,7 @@ class ModelTrainer:
                                                                 train_metric_artifact=classification_train_metric,
                                                                     test_metric_artifact=classification_test_metric)
             logging.info(f"Model trainer artifact: {model_trainer_artifact}\n\n")
-            print(f"Model trainer artifact: {model_trainer_artifact}\n\n")
+            # print(f"Model trainer artifact: {model_trainer_artifact}\n\n")
             return model_trainer_artifact
 
         except Exception as e:
