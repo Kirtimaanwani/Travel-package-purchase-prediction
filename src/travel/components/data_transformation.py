@@ -136,7 +136,7 @@ class DataTransformation:
 
         # Using SMOTETomek 
             logging.info("Using SMOTETomek on train and test data")
-            smt = SMOTETomek(sampling_strategy= "minority")
+            smt = SMOTETomek(sampling_strategy="not majority")
             # on training data frame
             input_feature_train_final, target_feature_train_final = smt.fit_resample(
                                                                                     transformed_input_feature_train_df, 
