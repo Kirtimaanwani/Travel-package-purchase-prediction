@@ -33,7 +33,7 @@ def optimize(params, x,y):
 
 
 if __name__ == "__main__":
-    df = pd.read_csv(r"H:\Travel-package-purchase-prediction\notebooks\data-after-transformation\train.csv")
+    df = pd.read_csv(r"/config/workspace/notebooks/data-after-transformation/train.csv")
     X = df.drop("ProdTaken", axis=1).values
     y = df.ProdTaken.values
     
@@ -41,7 +41,7 @@ if __name__ == "__main__":
         "max_depth" : scope.int(hp.quniform("max_depth", 3, 15, 1)),
         "n_estimators" : scope.int(hp.quniform("n_estimators", 100, 600, 1)), 
         "criterion" : hp.choice("criterion", ["gini", "entropy"]),
-        "max_features" : hp.uniform("max_features", 0.01, 1)
+        "max_features" : hp.uniform("max_features", 0.01, 1) 
             }
 
     optimization_function = partial(optimize, x=X, y=y)
@@ -57,4 +57,4 @@ if __name__ == "__main__":
     )
 
     print(results)
-
+# {'criterion': 1, 'max_depth': 12.0, 'max_features': 0.09282406701006783, 'n_estimators': 225.0}

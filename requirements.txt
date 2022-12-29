@@ -18,6 +18,7 @@ mypy==0.971
 pymongo[srv]==4.2.0
 from_root
 imblearn
-xgboost
+
+streamlit
 -e .
 
