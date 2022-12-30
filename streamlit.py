@@ -55,6 +55,7 @@ if add_sidebar == 'TRAIN':
             st.write(f"""Training successful !!\n\n
                             {logs}""")
         except Exception as e: 
+            st.write("Trained model is not better than the best model which is already exists, either add more data or do some better model tune or better split the data or etc.")
             raise TravelException(e, sys)
 
 if  add_sidebar == 'PREDICT':
