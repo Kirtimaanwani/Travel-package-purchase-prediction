@@ -18,9 +18,11 @@ class TravelModel:
             #with this predict function , directly do preprocessing and prediction-----in future if wanna to add more steps of feature engineering , it can be added here
            
             x_transform = self.preprocessor.transform(x)
-            y_hat = self.model.predict_proba(x_transform)
+            y_hat_prob = self.model.predict_proba(x_transform)
+            y_hat = self.model.predict(x_transform)
+            
             self.feature_importances_ = self.get_feature_importances()
-            return y_hat
+            return y_hat, y_hat_prob
         except Exception as e:
             raise TravelException(e, sys)
 

@@ -73,8 +73,8 @@ class ModelEvaluation:
             train_model = load_object(file_path=train_model_file_path)
 
             # Predicting with both models
-            y_trained_pred = train_model.predict(df)
-            y_latest_pred  =latest_model.predict(df)
+            y_trained_pred, y_trained_pred_prob = train_model.predict(df)
+            y_latest_pred, y_latest_pred_prob  = latest_model.predict(df)
 
             # Getting Score with both model
             trained_metric = get_classification_score(y_true, y_trained_pred)

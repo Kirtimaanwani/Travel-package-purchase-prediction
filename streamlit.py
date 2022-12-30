@@ -147,14 +147,14 @@ if  add_sidebar == 'PREDICT':
 
             best_model_path = model_resolver.get_best_model_path()
             model = load_object(file_path=best_model_path)
-            y_pred = model.predict(df)
+            y_pred, y_pred_prob = model.predict(df)
 
         except Exception as e:
            raise TravelException(e,sys)
 
         st.write(f"""### Probability of a customer whether he/she will purchase Travel Package is ->\n
-         for YES -> {y_pred[0][1]}\n
-         for NO -> {y_pred[0][0]}""")
+         for YES -> {y_pred_prob[0][1]}\n
+         for NO -> {y_pred_prob[0][0]}""")
 
 
 if  add_sidebar == 'FEATURE IMPORTANCE':
