@@ -29,6 +29,17 @@ from src.travel.utils.main_utils import load_object
 st.set_page_config(page_title='Travel Package Purchase Prediction App',
     layout='wide')
 
+st.write("## About the Travel Package Purchase Prediction")
+st.write("""
+
+Tourism is one of the most rapidly growing global industries and tourism forecasting is becoming 
+an increasingly important activity in planning and managing the industry. Because of high fluctuations
+ of tourism demand, accurate predictions of purchase of travel packages are of high importance for
+  tourism organizations.
+
+The goal is to predict whether the customer will purchase the travel package or not.
+""")
+
 st.write("""
 # The Travel Package Purchase Prediction App
 """)
