@@ -29,6 +29,10 @@ from src.travel.utils.main_utils import load_object
 st.set_page_config(page_title='Travel Package Purchase Prediction App',
     layout='wide')
 
+st.write("""
+# The Travel Package Purchase Prediction App
+""")
+
 st.write("## About the Travel Package Purchase Prediction")
 st.write("""
 
@@ -40,9 +44,7 @@ an increasingly important activity in planning and managing the industry. Becaus
 The goal is to predict whether the customer will purchase the travel package or not.
 """)
 
-st.write("""
-# The Travel Package Purchase Prediction App
-""")
+
 
 add_sidebar = st.sidebar.selectbox('Select Train route or Predict route', ('NONE', 'TRAIN','PREDICT',"FEATURE IMPORTANCE"))
 
