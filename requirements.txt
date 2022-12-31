@@ -7,6 +7,8 @@ scikit-learn
 matplotlib
 seaborn
 imblearn
+PyYAML
+dill
 
 pytest==7.1.3
 tox==3.25.1
@@ -15,7 +17,8 @@ flake8==5.0.4
 mypy==0.971
 pymongo[srv]==4.2.0
 from_root
+imblearn
 
-xgboost
+streamlit
 -e .
 

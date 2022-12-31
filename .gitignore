@@ -142,3 +142,7 @@ artifact/
 
 # ignoring data csv
 /tour_package.csv
+/sample
+sample/
+sample
+saved_models/

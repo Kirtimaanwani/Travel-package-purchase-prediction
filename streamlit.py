@@ -33,6 +33,19 @@ st.write("""
 # The Travel Package Purchase Prediction App
 """)
 
+st.write("## About the Travel Package Purchase Prediction")
+st.write("""
+
+Tourism is one of the most rapidly growing global industries and tourism forecasting is becoming 
+an increasingly important activity in planning and managing the industry. Because of high fluctuations
+ of tourism demand, accurate predictions of purchase of travel packages are of high importance for
+  tourism organizations.
+
+The goal is to predict whether the customer will purchase the travel package or not.
+""")
+
+
+
 add_sidebar = st.sidebar.selectbox('Select Train route or Predict route', ('NONE', 'TRAIN','PREDICT',"FEATURE IMPORTANCE"))
 
 if add_sidebar == 'TRAIN':
@@ -55,6 +68,7 @@ if add_sidebar == 'TRAIN':
             st.write(f"""Training successful !!\n\n
                             {logs}""")
         except Exception as e: 
+            st.write("Trained model is not better than the best model which is already exists, either add more data or do some better model tune or better split the data or etc.")
             raise TravelException(e, sys)
 
 if  add_sidebar == 'PREDICT':
@@ -147,14 +161,14 @@ if  add_sidebar == 'PREDICT':
 
             best_model_path = model_resolver.get_best_model_path()
             model = load_object(file_path=best_model_path)
-            y_pred = model.predict(df)
+            y_pred, y_pred_prob = model.predict(df)
 
         except Exception as e:
            raise TravelException(e,sys)
 
         st.write(f"""### Probability of a customer whether he/she will purchase Travel Package is ->\n
-         for YES -> {y_pred[0][1]}\n
-         for NO -> {y_pred[0][0]}""")
+         for YES -> {y_pred_prob[0][1]}\n
+         for NO -> {y_pred_prob[0][0]}""")
 
 
 if  add_sidebar == 'FEATURE IMPORTANCE':
